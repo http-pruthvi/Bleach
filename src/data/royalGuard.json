@@ -1,0 +1,336 @@
+[
+  {
+    "id": "ichibei",
+    "name": "Ichibei Hyosube",
+    "kanji": "兵主部 一兵衛",
+    "aliases": [
+      "Man of Grand Wisdom",
+      "Commander of the Royal Guard"
+    ],
+    "faction": "Royal Guard",
+    "divisionRank": "Royal Guard Leader",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "Ichimonji",
+      "release": "Blacken (Kurome)",
+      "shikai": "Ichimonji",
+      "bankai": "Shirafude Ichimonji",
+      "notes": "Commands the concept of 'black' across the cosmos; rewrites names and divine properties through white ink."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Ichimonji",
+        "desc": "A giant calligraphy brush that paints black ink over opponents, stripping their names, concepts, and physical powers.",
+        "tags": [
+          "Cosmic Black",
+          "Name Stripping",
+          "Calligraphy Brush"
+        ]
+      },
+      {
+        "title": "Shin'uchi (Original Bankai)",
+        "name": "Shirafude Ichimonji",
+        "desc": "Writes new names in white ink onto blackened targets, granting them the fragility of whatever is written—such as a black ant.",
+        "tags": [
+          "White Brush",
+          "Name Bestowal",
+          "Ant Reclassification"
+        ]
+      },
+      {
+        "title": "Secret Art",
+        "name": "Futen Taisatsuryo",
+        "desc": "Steals one hundred nights from the future of Soul Society to completely extinguish existence down to the reincarnating soul.",
+        "tags": [
+          "Hundred Nights",
+          "Total Erasure",
+          "Mausoleum"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#baeff3",
+      "ink": "#290c0a",
+      "accent": "#1135d4"
+    },
+    "blurb": "The ancient leader of the Zero Division who named everything in the Soul Society—including Zanpakuto, Shikai, and Bankai. His calligraphy ink governs the primordial concept of black to strip divine names from foes.",
+    "image": "/assets/characters/ichibei.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/ichibei.png",
+    "voiceActor": "Naomi Kusumi",
+    "birthday": "Jan. 1",
+    "height": "181cm",
+    "kitShape": "blinds",
+    "kitMotion": "elastic",
+    "kitSignature": "ichibei-sig-84",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Ichibei Hyosube color field (#baeff3) expands across screen.",
+      "Reveal: Cover dissolves as Ichimonji sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "kirinji",
+    "name": "Tenjiro Kirinji",
+    "kanji": "麒麟寺 天示郎",
+    "aliases": [
+      "Hot Spring Demon",
+      "First Officer of the Royal Guard"
+    ],
+    "faction": "Royal Guard",
+    "divisionRank": "Royal Guard",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "Kinpika",
+      "release": "Flash Forth (Pikatto Hikare)",
+      "shikai": "Kinpika",
+      "bankai": "N/A",
+      "notes": "Inventor of healing hot springs; manipulates scalding medicinal waters and boiling red blood springs."
+    },
+    "powerSteps": [
+      {
+        "title": "Spring Arts",
+        "name": "White Bone & Blood Pond Springs",
+        "desc": "Floods the battlefield with scalding mineral springs that flush out contaminated blood or boil enemy flesh on contact.",
+        "tags": [
+          "Hot Spring Demon",
+          "Blood Pond",
+          "Scalding Current"
+        ]
+      },
+      {
+        "title": "Shikai",
+        "name": "Kinpika",
+        "desc": "A glowing halberd bathed in blinding sunlight that strikes with lightning-swift polearm speed.",
+        "tags": [
+          "Flashing Halberd",
+          "Blinding Light",
+          "Swift Thrust"
+        ]
+      }
+    ],
+    "fxType": "water",
+    "colors": {
+      "bg": "#becff4",
+      "ink": "#291f0a",
+      "accent": "#6611d4"
+    },
+    "blurb": "The brash hot spring physician who taught Unohana the foundational healing arts of the Soul Society. His scalding healing waters flush tainted blood while his halberd moves with blinding speed.",
+    "image": "/assets/characters/kirinji.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/kirinji.png",
+    "voiceActor": "Tomoyuki Shimura",
+    "birthday": "May 31",
+    "height": "193cm",
+    "kitShape": "chain-links",
+    "kitMotion": "drift",
+    "kitSignature": "kirinji-sig-91",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief drift cue.",
+      "Cover: Signature Tenjiro Kirinji color field (#becff4) expands across screen.",
+      "Reveal: Cover dissolves as Kinpika sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "senjumaru",
+    "name": "Senjumaru Shutara",
+    "kanji": "修多羅 千手丸",
+    "aliases": [
+      "Great Weave Guard"
+    ],
+    "faction": "Royal Guard",
+    "divisionRank": "Royal Guard",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "Shigarami & Divine Loom",
+      "release": "Thread Manipulation",
+      "shikai": "Shigarami",
+      "bankai": "Shatatsu Karagara Shigarami no Tsuji",
+      "notes": "Inventor of the Shihakusho garments; controls millions of needle-threads to weave tapestries of fatal destiny."
+    },
+    "powerSteps": [
+      {
+        "title": "Weaving Art",
+        "name": "Thousand Arm Loom",
+        "desc": "Deploys mechanical golden needle-arms to rewrite fabrics, stitch lethal traps, and slip past impenetrable barriers.",
+        "tags": [
+          "Needle Arms",
+          "Fabric Weave",
+          "Shihakusho Creator"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Shatatsu Karagara Shigarami no Tsuji",
+        "desc": "Unrolls a massive loom that weaves custom fabric tapestries matching each opponent's nature, freezing, burning, and crushing them in destined cloth prisons.",
+        "tags": [
+          "Loom of Doom",
+          "Destiny Tapestry",
+          "Multi-Target Trap"
+        ]
+      }
+    ],
+    "fxType": "petals",
+    "colors": {
+      "bg": "#d1c2f5",
+      "ink": "#20290a",
+      "accent": "#d411cb"
+    },
+    "blurb": "The elegant weaver of the Royal Guard who designed the protective Shihakusho garments worn by all Soul Reapers. Her monumental loom weaves fabric tapestries that execute custom fates for invading armies.",
+    "image": "/assets/characters/senjumaru.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/senjumaru.png",
+    "voiceActor": "Rina Sato",
+    "birthday": "Nov. 1",
+    "height": "158cm",
+    "kitShape": "bars",
+    "kitMotion": "elastic",
+    "kitSignature": "senjumaru-sig-98",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Senjumaru Shutara color field (#d1c2f5) expands across screen.",
+      "Reveal: Cover dissolves as Shigarami & Divine Loom sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "nimaiya",
+    "name": "Oetsu Nimaiya",
+    "kanji": "二枚屋 王悦",
+    "aliases": [
+      "God of the Sword",
+      "Creator of Zanpakuto"
+    ],
+    "faction": "Royal Guard",
+    "divisionRank": "Royal Guard",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "Sayafushi",
+      "release": "Unsheathed Blade",
+      "shikai": "Sayafushi",
+      "bankai": "N/A",
+      "notes": "Creator of all Asauchi; wields Sayafushi, a blade so sharp and frictionless no scabbard can hold it."
+    },
+    "powerSteps": [
+      {
+        "title": "Failed Masterpiece",
+        "name": "Sayafushi",
+        "desc": "An edge so impossibly sharp that blood slides off without wetting the steel, cleaving elite Quincy weapons with single taps.",
+        "tags": [
+          "Sword God",
+          "Frictionless Edge",
+          "Single-Stroke Kill"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#f2c6f6",
+      "ink": "#0d290a",
+      "accent": "#d41152"
+    },
+    "blurb": "The energetic, rhyming master smith who forged the very first Asauchi and created every Zanpakuto in history. In combat, he wields a scabbard-less sword so sharp that blood cannot cling to its edge.",
+    "image": "/assets/characters/nimaiya.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/nimaiya.png",
+    "voiceActor": "Yoji Ueda",
+    "birthday": "Aug. 18",
+    "height": "172cm",
+    "kitShape": "waves",
+    "kitMotion": "drift",
+    "kitSignature": "nimaiya-sig-5",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief drift cue.",
+      "Cover: Signature Oetsu Nimaiya color field (#f2c6f6) expands across screen.",
+      "Reveal: Cover dissolves as Sayafushi sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "hikifune",
+    "name": "Kirio Hikifune",
+    "kanji": "曳舟 桐生",
+    "aliases": [
+      "Ruler of Grain",
+      "Former Twelfth Division Captain"
+    ],
+    "faction": "Royal Guard",
+    "divisionRank": "Royal Guard",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "Cage of Life & Artificial Souls",
+      "release": "Spiritual Cooking",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Inventor of the Gikongan (artificial soul); cultivates living spiritual food and wood that feeds on reiatsu."
+    },
+    "powerSteps": [
+      {
+        "title": "Creation",
+        "name": "Cage of Life",
+        "desc": "Summons a dense forest cage of living spiritual trees that actively absorb and drink incoming reishi attacks to grow thicker.",
+        "tags": [
+          "Cage of Life",
+          "Reishi Tree",
+          "Gikongan Inventor"
+        ]
+      }
+    ],
+    "fxType": "earth",
+    "colors": {
+      "bg": "#f7cadf",
+      "ink": "#0a291b",
+      "accent": "#d44811"
+    },
+    "blurb": "The warm culinary master who invented the artificial soul technology fundamental to modern Soul Reaper operations. Her dense Cage of Life feeds upon enemy spiritual energy to block holy arrows.",
+    "image": "/assets/characters/hikifune.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/hikifune.png",
+    "voiceActor": "Ayumi Tsunematsu",
+    "birthday": "Dec. 16",
+    "height": "174cm",
+    "kitShape": "torn-paper",
+    "kitMotion": "elastic",
+    "kitSignature": "hikifune-sig-12",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Kirio Hikifune color field (#f7cadf) expands across screen.",
+      "Reveal: Cover dissolves as Cage of Life & Artificial Souls sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  }
+]

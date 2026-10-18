@@ -1,0 +1,347 @@
+[
+  {
+    "id": "urahara",
+    "name": "Kisuke Urahara",
+    "kanji": "浦原 喜助",
+    "aliases": [
+      "Shopkeeper",
+      "Former Twelfth Division Captain",
+      "Founder of the SRDI"
+    ],
+    "faction": "Urahara Shop",
+    "divisionRank": "Former Captain (Div 12)",
+    "tier": "A",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Benihime",
+      "release": "Awaken",
+      "shikai": "Benihime",
+      "bankai": "Kannonbiraki Benihime Aratame",
+      "notes": "A versatile crimson-energy blade capable of offensive blasts, shields, and anatomical restructuring."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Benihime",
+        "desc": "A cane sword that awakens into a crimson-hilted blade projecting versatile crimson reishi sheets and binding nets.",
+        "tags": [
+          "Crimson Energy",
+          "Chisaku Shield",
+          "Razor Net"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Kannonbiraki Benihime Aratame",
+        "desc": "Manifests a colossal benevolent mannequin that cuts open and stitches back together anything within its domain for spatial restructuring or physical reconstruction.",
+        "tags": [
+          "Anatomical Restructure",
+          "Domain Stitching",
+          "Spatial Modification"
+        ]
+      },
+      {
+        "title": "Mastery",
+        "name": "High-Tier Kido & Inventions",
+        "desc": "Commands forbidden level 90+ Kido spells without incantation and deploys tactical seal matrices to neutralize god-tier threats.",
+        "tags": [
+          "Hado 91",
+          "Kido Sealing",
+          "Strategic Traps"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#dcfce7",
+      "ink": "#14532d",
+      "accent": "#16a34a"
+    },
+    "blurb": "An eccentric shopkeeper who masks towering genius behind wooden clogs and a striped bucket hat. As the founder of the Research and Development Institute, he stays three moves ahead of every adversary.",
+    "image": "/assets/characters/urahara.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Kisuke Urahara Power Reel"
+    },
+    "headshot": "/assets/headshots/urahara.png",
+    "voiceActor": "Shin-ichiro Miki",
+    "birthday": "Dec. 31",
+    "height": "183cm",
+    "kitShape": "slash",
+    "kitMotion": "stagger",
+    "kitSignature": "urahara-sig-19",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Kisuke Urahara color field (#dcfce7) expands across screen.",
+      "Reveal: Cover dissolves as Benihime sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "yoruichi",
+    "name": "Yoruichi Shihoin",
+    "kanji": "四楓院 夜一",
+    "aliases": [
+      "Flash Goddess",
+      "Former Second Division Captain"
+    ],
+    "faction": "Urahara Shop",
+    "divisionRank": "Former Captain (Div 2)",
+    "tier": "A",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Shunkō & Hakuda Mastery",
+      "release": "Lightning Manifestation",
+      "shikai": "Unrevealed",
+      "bankai": "Unrevealed",
+      "notes": "Foregoes carrying a Zanpakuto to rely on pinnacle unarmed hand-to-hand combat and lightning-infused pressure."
+    },
+    "powerSteps": [
+      {
+        "title": "Signature Art",
+        "name": "Shunkō",
+        "desc": "Fuses advanced Hakuda hand-to-hand combat with concentrated Kido to cloak the shoulders in surging lightning and pulverizing force.",
+        "tags": [
+          "Flash War Cry",
+          "Lightning Cloak",
+          "Explosive Hakuda"
+        ]
+      },
+      {
+        "title": "Advanced Form",
+        "name": "Shunkō: Raijin Senkei",
+        "desc": "Summons a glowing halo of lightning drums above her spine that discharge continuous localized electrical storms.",
+        "tags": [
+          "Thunder God",
+          "Lightning Drums",
+          "Continuous Discharge"
+        ]
+      },
+      {
+        "title": "Tactical Gear",
+        "name": "Anti-Hierro Armor & Wire",
+        "desc": "Equips resilient reinforced metal gauntlets and razor steel wires capable of fracturing hardened Arrancar carapaces.",
+        "tags": [
+          "Anti-Hierro",
+          "Steel Traps",
+          "Speed Supremacy"
+        ]
+      }
+    ],
+    "fxType": "lightning",
+    "colors": {
+      "bg": "#f5d0fe",
+      "ink": "#3b0764",
+      "accent": "#c026d3"
+    },
+    "blurb": "The 22nd hereditary leader of the noble Shihoin clan and undisputed master of high-speed flash step. She dominates battlefields with lightning-infused martial arts and supreme agility.",
+    "image": "/assets/characters/yoruichi.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Yoruichi Shihoin Power Reel"
+    },
+    "headshot": "/assets/headshots/yoruichi.png",
+    "voiceActor": "Satsuki Yukino",
+    "birthday": "Jan. 1",
+    "height": "156cm",
+    "kitShape": "circle-iris",
+    "kitMotion": "snap",
+    "kitSignature": "yoruichi-sig-26",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief snap cue.",
+      "Cover: Signature Yoruichi Shihoin color field (#f5d0fe) expands across screen.",
+      "Reveal: Cover dissolves as Shunkō & Hakuda Mastery sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "tessai",
+    "name": "Tessai Tsukabishi",
+    "kanji": "握菱 鉄斎",
+    "aliases": [
+      "Former Grand Kido Commander"
+    ],
+    "faction": "Urahara Shop",
+    "divisionRank": "Former Kido Corps Head",
+    "tier": "B",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Forbidden Kido Mastery",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Commands forbidden space-time and sealing Kido spells."
+    },
+    "powerSteps": [
+      {
+        "title": "High Kido",
+        "name": "Bakudo #99 & Forbidden Arts",
+        "desc": "Erects ancient multi-layered barriers and halts the local passage of time to quarantine spatial hazards.",
+        "tags": [
+          "Spatial Barrier",
+          "Kin",
+          "Forbidden Kido"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#e1f5c2",
+      "ink": "#160a29",
+      "accent": "#11d42b"
+    },
+    "blurb": "A quiet shop assistant whose apron belies his former title as the supreme leader of the Soul Society Kido Corps. His spells bend spatial barriers and counter high-level hollow energy.",
+    "image": "/assets/characters/tessai.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/tessai.png",
+    "kitShape": "blinds",
+    "kitMotion": "stagger",
+    "kitSignature": "tessai-sig-33",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Tessai Tsukabishi color field (#e1f5c2) expands across screen.",
+      "Reveal: Cover dissolves as Forbidden Kido Mastery sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "jinta",
+    "name": "Jinta Hanakari",
+    "kanji": "花刈 ジン太",
+    "aliases": [
+      "Shop Assistant"
+    ],
+    "faction": "Urahara Shop",
+    "divisionRank": "Assistant",
+    "tier": "C",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Jinta Home Run",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Swings a massive iron club with superhuman muscle density."
+    },
+    "fxType": "earth",
+    "colors": {
+      "bg": "#c6f6c6",
+      "ink": "#290a29",
+      "accent": "#11d4a4"
+    },
+    "blurb": "An abrasive redhead shop worker who swings a massive iron bat to crush stray hollow incursions. Despite his bluster, he stays fiercely protective of the shop sanctuary.",
+    "image": "/assets/characters/jinta.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/jinta.png",
+    "kitShape": "chain-links",
+    "kitMotion": "snap",
+    "kitSignature": "jinta-sig-40",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief snap cue.",
+      "Cover: Signature Jinta Hanakari color field (#c6f6c6) expands across screen.",
+      "Reveal: Cover dissolves as Jinta Home Run sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "ururu",
+    "name": "Ururu Tsumugiya",
+    "kanji": "紬屋 雨",
+    "aliases": [
+      "Slaughter Doll"
+    ],
+    "faction": "Urahara Shop",
+    "divisionRank": "Assistant",
+    "tier": "C",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Slaughter Mode & Heavy Canon",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Fires multi-barrel reishi cannons and triggers lethal berserk protocols."
+    },
+    "fxType": "arrows",
+    "colors": {
+      "bg": "#caf7e6",
+      "ink": "#290a16",
+      "accent": "#118dd4"
+    },
+    "blurb": "A timid girl who wields a heavy repeating cannon and enters an emotionless slaughter mode against enemy reiryoku. Her combat output surprised even invading Espada forces.",
+    "image": "/assets/characters/ururu.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/ururu.png",
+    "kitShape": "bars",
+    "kitMotion": "stagger",
+    "kitSignature": "ururu-sig-47",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Ururu Tsumugiya color field (#caf7e6) expands across screen.",
+      "Reveal: Cover dissolves as Slaughter Mode & Heavy Canon sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "yushiro",
+    "name": "Yushiro Shihoin",
+    "kanji": "四楓院 夕四郎",
+    "aliases": [
+      "23rd Head of the Shihoin Clan"
+    ],
+    "faction": "Urahara Shop",
+    "divisionRank": "Noble Head",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "Shunkō: Bakuen Muso",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Generates explosive fire-elemental Shunkō."
+    },
+    "fxType": "fire",
+    "colors": {
+      "bg": "#ceeef8",
+      "ink": "#29110a",
+      "accent": "#1114d4"
+    },
+    "blurb": "The energetic younger brother of Yoruichi who idolizes his sister and inherits Shihoin martial arts. He manifests explosive flame-based Shunkō to assist Soul Reaper operations.",
+    "image": "/assets/characters/yushiro.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/yushiro.png",
+    "birthday": "Mar. 3",
+    "height": "146cm",
+    "kitShape": "waves",
+    "kitMotion": "snap",
+    "kitSignature": "yushiro-sig-54",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief snap cue.",
+      "Cover: Signature Yushiro Shihoin color field (#ceeef8) expands across screen.",
+      "Reveal: Cover dissolves as Shunkō: Bakuen Muso sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  }
+]

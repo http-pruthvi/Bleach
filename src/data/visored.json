@@ -1,0 +1,495 @@
+[
+  {
+    "id": "shinji",
+    "name": "Shinji Hirako",
+    "kanji": "平子 真子",
+    "aliases": [
+      "Fifth Division Captain",
+      "Leader of the Visored"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Captain (Div 5)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Sakanade",
+      "release": "Collapse (Taose)",
+      "shikai": "Sakanade",
+      "bankai": "Sakasama Yokoshima Hapo Fusagari",
+      "notes": "Spins world perception backwards, upside down, and reverses friend-or-foe allegiances."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Sakanade",
+        "desc": "A ringed katana that releases a sweet-scented mist, inverting up/down, left/right, and sensory direction for opponents.",
+        "tags": [
+          "Inverted World",
+          "Sensory Reversal",
+          "Spinning Ring"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Sakasama Yokoshima Hapo Fusagari",
+        "desc": "Traps him inside a giant golden flower bud while turning all surrounding enemies against one another in mutual slaughter.",
+        "tags": [
+          "Friend to Foe",
+          "Golden Flower",
+          "Massive Area Reversal"
+        ]
+      },
+      {
+        "title": "Hollow Power",
+        "name": "Hollow Mask & Cero",
+        "desc": "Donns a pharaoh-like hollow mask to amplify physical strikes and fire sweeping emerald Cero beams.",
+        "tags": [
+          "Hollow Mask",
+          "Emerald Cero",
+          "Visored Surge"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#f3baea",
+      "ink": "#0a290f",
+      "accent": "#d41125"
+    },
+    "blurb": "The wry and sharp-witted leader of the exiled Visored who was restored to command the fifth division. His optical-inverting Zanpakuto disorients opponents by reversing all directional perception.",
+    "image": "/assets/characters/shinji.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/shinji.png",
+    "voiceActor": "Masaya Onosaka",
+    "birthday": "May 10",
+    "height": "176cm",
+    "kitShape": "star-iris",
+    "kitMotion": "stagger",
+    "kitSignature": "shinji-sig-99",
+    "storyboard": [
+      "Anticipation: star-iris silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Shinji Hirako color field (#f3baea) expands across screen.",
+      "Reveal: Cover dissolves as Sakanade sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "hiyori",
+    "name": "Hiyori Sarugaki",
+    "kanji": "猿柿 ひよ里",
+    "aliases": [
+      "Former Twelfth Division Lieutenant"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Visored",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Kubikiri Orochi",
+      "release": "Chop Cleanly (Buttagire)",
+      "shikai": "Kubikiri Orochi",
+      "bankai": "N/A",
+      "notes": "A massive serrated cleaver blade backed by savage red Cero blasts."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Kubikiri Orochi",
+        "desc": "A serrated cleaver that tears through armor with raw physical leverage.",
+        "tags": [
+          "Beheading Serpent",
+          "Serrated Cleaver",
+          "Hollow Force"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#f4beca",
+      "ink": "#0a2922",
+      "accent": "#d47611"
+    },
+    "blurb": "A short-tempered tracksuit-wearing warrior whose sharp kicks keep Shinji in line. She brandishes a serrated cleaver and a skull-horned hollow mask to unleash ferocious close-range fury.",
+    "image": "/assets/characters/hiyori.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/hiyori.png",
+    "kitShape": "brush-stroke",
+    "kitMotion": "snap",
+    "kitSignature": "hiyori-sig-6",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief snap cue.",
+      "Cover: Signature Hiyori Sarugaki color field (#f4beca) expands across screen.",
+      "Reveal: Cover dissolves as Kubikiri Orochi sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "kensei",
+    "name": "Kensei Muguruma",
+    "kanji": "六車 拳西",
+    "aliases": [
+      "Ninth Division Captain"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Captain (Div 9)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Tachikaze",
+      "release": "Blow It Away (Fukitobase)",
+      "shikai": "Tachikaze",
+      "bankai": "Tekken Tachikaze",
+      "notes": "Compresses air into wind daggers and channels continuous exploding concussive force through spiked gauntlets."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Tachikaze",
+        "desc": "A tactical combat knife that shoots explosive reishi wind trails to sever distant targets.",
+        "tags": [
+          "Earth-Severing Wind",
+          "Wind Blades",
+          "Tactical Knife"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Tekken Tachikaze",
+        "desc": "Encases his arms in armored metal knuckle-dusters that blast continuous explosive wind shockwaves into anything he punches.",
+        "tags": [
+          "Iron Fist",
+          "Continuous Explosion",
+          "Devastating Gauntlet"
+        ]
+      }
+    ],
+    "fxType": "earth",
+    "colors": {
+      "bg": "#f5d5c2",
+      "ink": "#0a1d29",
+      "accent": "#bad411"
+    },
+    "blurb": "A blunt combat veteran whose military bearing anchors the frontline defense of the Seireitei. His Bankai transforms his fists into armored engines of continuous concussive detonation.",
+    "image": "/assets/characters/kensei.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/kensei.png",
+    "voiceActor": "Tomokazu Sugita",
+    "birthday": "Jul. 30",
+    "height": "179cm",
+    "kitShape": "slash",
+    "kitMotion": "stagger",
+    "kitSignature": "kensei-sig-13",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Kensei Muguruma color field (#f5d5c2) expands across screen.",
+      "Reveal: Cover dissolves as Tachikaze sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "mashiro",
+    "name": "Mashiro Kuna",
+    "kanji": "久南 白",
+    "aliases": [
+      "Co-Lieutenant of the Ninth Division",
+      "Super Lieutenant"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Co-Lieutenant (Div 9)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Mashiro Super Kick",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Natural hollow fusion prodigy capable of maintaining her mask for fifteen hours straight without tiring."
+    },
+    "powerSteps": [
+      {
+        "title": "Hollow Fusion",
+        "name": "Mashiro Super Cero Kick",
+        "desc": "Fuses green hollow mask power into airborne flying drop-kicks that shatter colossal Menos Grande masks on impact.",
+        "tags": [
+          "Super Kick",
+          "Grasshopper Mask",
+          "Fifteen-Hour Mask"
+        ]
+      }
+    ],
+    "fxType": "speed",
+    "colors": {
+      "bg": "#f6f6c6",
+      "ink": "#0a0a29",
+      "accent": "#42d411"
+    },
+    "blurb": "An energetic bodysuit-wearing brawler who mastered her hollow mask immediately without undergoing training trials. Her explosive drop-kicks decapitate giant hollows with acrobatic cheer.",
+    "image": "/assets/characters/mashiro.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/mashiro.png",
+    "kitShape": "circle-iris",
+    "kitMotion": "snap",
+    "kitSignature": "mashiro-sig-20",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief snap cue.",
+      "Cover: Signature Mashiro Kuna color field (#f6f6c6) expands across screen.",
+      "Reveal: Cover dissolves as Mashiro Super Kick sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "rose",
+    "name": "Rojuro Otoribashi",
+    "kanji": "鳳橋 楼十郎",
+    "aliases": [
+      "Rose",
+      "Third Division Captain"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Captain (Div 3)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Kinshara",
+      "release": "Play (Kanadelo)",
+      "shikai": "Kinshara",
+      "bankai": "Kinshara Butodan",
+      "notes": "A golden whip tipped with an ornate flower that conducts musical sound illusions into physical destruction."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Kinshara",
+        "desc": "A golden flower whip that channels musical vibrations to cause internal sonic explosions inside opponents.",
+        "tags": [
+          "Golden Sal Tree",
+          "Sonic Whip",
+          "Arpeggio Burst"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Kinshara Butodan",
+        "desc": "Summons a troupe of masked dancers who enact musical illusions of fire, water, and life-stealing sound that trick the brain into sustaining physical damage.",
+        "tags": [
+          "Gold Flower Dance Troupe",
+          "Physical Illusion",
+          "Sea Drift"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#dbf7ca",
+      "ink": "#1d0a29",
+      "accent": "#11d459"
+    },
+    "blurb": "A romantic dandy and music enthusiast who restored harmony to the third division after Gin's departure. His golden whip conducts symphonic illusions that trick opposing minds into physical ruin.",
+    "image": "/assets/characters/rose.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/rose.png",
+    "voiceActor": "Shouto Kashii",
+    "birthday": "Mar. 17",
+    "height": "187cm",
+    "kitShape": "blinds",
+    "kitMotion": "stagger",
+    "kitSignature": "rose-sig-27",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Rojuro Otoribashi color field (#dbf7ca) expands across screen.",
+      "Reveal: Cover dissolves as Kinshara sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "love",
+    "name": "Love Aikawa",
+    "kanji": "愛川 羅武",
+    "aliases": [
+      "Former Seventh Division Captain"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Visored",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Tengumaru",
+      "release": "Smash into Pieces (Uchikudake)",
+      "shikai": "Tengumaru",
+      "bankai": "N/A",
+      "notes": "A giant spiked black club that erupts in explosive plumes of flame."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Tengumaru",
+        "desc": "A massive spiked club twice his height that combusts into colossal fire pillars to crush fortifications.",
+        "tags": [
+          "Heavenly Demon Club",
+          "Fire Column",
+          "Hifuki no Koide"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#cef8d8",
+      "ink": "#290a22",
+      "accent": "#11d4d1"
+    },
+    "blurb": "An afro-sporting former captain who reads manga leisurely while remaining a powerhouse brawler. His giant spiked club ignites into roaring flame pillars when swung with both hands.",
+    "image": "/assets/characters/love.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/love.png",
+    "kitShape": "chain-links",
+    "kitMotion": "snap",
+    "kitSignature": "love-sig-34",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief snap cue.",
+      "Cover: Signature Love Aikawa color field (#cef8d8) expands across screen.",
+      "Reveal: Cover dissolves as Tengumaru sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "lisa",
+    "name": "Lisa Yadomaru",
+    "kanji": "矢胴丸 リサ",
+    "aliases": [
+      "Eighth Division Captain"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Captain (Div 8)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Haguro Tonbo",
+      "release": "Smash Down (Tsubuse)",
+      "shikai": "Haguro Tonbo",
+      "bankai": "N/A",
+      "notes": "A long-handled monk polearm weapon with a heavy crescent blade."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Haguro Tonbo",
+        "desc": "Converts her sword into a heavy two-handed monk's spade with exceptional spinning reach.",
+        "tags": [
+          "Iron Dragonfly",
+          "Monk Spade",
+          "Acrobatic Polearm"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#d2f9f3",
+      "ink": "#290a0f",
+      "accent": "#115fd4"
+    },
+    "blurb": "A glasses-wearing pragmatist who assumed command of the eighth division following Shunsui's promotion. She twirls a heavy monk spade with razor-sharp acrobatics to overwhelm frontline opponents.",
+    "image": "/assets/characters/lisa.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/lisa.png",
+    "kitShape": "bars",
+    "kitMotion": "stagger",
+    "kitSignature": "lisa-sig-41",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief stagger cue.",
+      "Cover: Signature Lisa Yadomaru color field (#d2f9f3) expands across screen.",
+      "Reveal: Cover dissolves as Haguro Tonbo sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "hachi",
+    "name": "Hachigen Ushoda",
+    "kanji": "有昭田 鉢玄",
+    "aliases": [
+      "Hachi",
+      "Former Vice-Kido Grand Commander"
+    ],
+    "faction": "Visored",
+    "divisionRank": "Visored",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Spatial Kido Barriers",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Commands supreme spatial manipulation, barrier transmutation, and teleportation Kido."
+    },
+    "powerSteps": [
+      {
+        "title": "Spatial Barrier",
+        "name": "Hachigyo Soryu & Roppo Fuujin",
+        "desc": "Materializes complex multi-dimensional geometric boxes that isolate spatial pockets and quarantine decaying curses.",
+        "tags": [
+          "Eight-Corner Barrier",
+          "Spatial Quarantine",
+          "Decay Inversion"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#d6e9fa",
+      "ink": "#29180a",
+      "accent": "#3b11d4"
+    },
+    "blurb": "The gentle pink-haired barrier specialist who once served as second-in-command of the Kido Corps. In the battle against Barragan, he teleported his own decaying arm inside the Espada's stomach to vanquish him.",
+    "image": "/assets/characters/hachi.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/hachi.png",
+    "kitShape": "waves",
+    "kitMotion": "snap",
+    "kitSignature": "hachi-sig-48",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief snap cue.",
+      "Cover: Signature Hachigen Ushoda color field (#d6e9fa) expands across screen.",
+      "Reveal: Cover dissolves as Spatial Kido Barriers sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  }
+]

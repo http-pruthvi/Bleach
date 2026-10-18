@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "yhwach",
+    "name": "Yhwach",
+    "kanji": "ユーハバッハ",
+    "aliases": [
+      "Father of the Quincy",
+      "Emperor of the Wandenreich",
+      "The Almighty"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Quincy Emperor",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Sealed as the New Soul King",
+    "power": {
+      "name": "The Almighty (Schrift A)",
+      "release": "All-Seeing Eyes",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Sees all possible futures and rewrites future reality; redistributes and absorbs all Quincy souls through Auswählen."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift A",
+        "name": "The Almighty",
+        "desc": "Opens multiple pupils across his eyes, perceiving every infinite branching future and rewriting future outcomes to his advantage.",
+        "tags": [
+          "Future Sight",
+          "Fate Alteration",
+          "Absolute Omniscience"
+        ]
+      },
+      {
+        "title": "Soul Redistribution",
+        "name": "Auswählen",
+        "desc": "Beams down columns of holy light that strip power and life from lower Quincy across realms to resurrect his inner circle.",
+        "tags": [
+          "Consecration",
+          "Soul Absorption",
+          "Divine Rebirth"
+        ]
+      },
+      {
+        "title": "Godly Fusion",
+        "name": "Soul King Absorption",
+        "desc": "Consumes the core torso of the Soul King, gaining power to dissolve the barriers dividing Hueco Mundo, Soul Society, and the Living World.",
+        "tags": [
+          "Cosmic Collapse",
+          "Dark Reiatsu Torrent",
+          "World Merger"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#baf3da",
+      "ink": "#290a17",
+      "accent": "#1197d4"
+    },
+    "blurb": "The progenitor of all Quincy whose slumbering soul awakened after a thousand years to wage total war against the Soul Society. His Almighty sight perceives and alters future timelines at will.",
+    "image": "/assets/characters/yhwach.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/yhwach.png",
+    "voiceActor": "Takayuki Sugo",
+    "height": "200cm",
+    "kitShape": "circle-iris",
+    "kitMotion": "elastic",
+    "kitSignature": "yhwach-sig-74",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Yhwach color field (#baf3da) expands across screen.",
+      "Reveal: Cover dissolves as The Almighty (Schrift A) sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "haschwalth",
+    "name": "Jugram Haschwalth",
+    "kanji": "ユーグラム・ハッシュヴァルト",
+    "aliases": [
+      "Grandmaster of the Sternritter",
+      "Sternritter B",
+      "The Balance"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Grandmaster",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Balance (Schrift B)",
+      "release": "Freund Schild Activation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Redirects misfortune from himself onto opponents, while absorbing misfortunes into his holy shield."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift B",
+        "name": "The Balance",
+        "desc": "Maintains universal balance by redirecting good fortune enjoyed by opponents into misfortune, and deflecting damage onto his holy shield.",
+        "tags": [
+          "Misfortune Redirection",
+          "Freund Schild",
+          "Fortune Inversion"
+        ]
+      }
+    ],
+    "fxType": "arrows",
+    "colors": {
+      "bg": "#beeaf4",
+      "ink": "#29100a",
+      "accent": "#111ed4"
+    },
+    "blurb": "The composed Grandmaster of the Sternritter who shares Yhwach's throne and wields The Almighty while the Emperor sleeps. His scale of balance punishes any opponent fortunate enough to wound him.",
+    "image": "/assets/characters/haschwalth.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/haschwalth.png",
+    "voiceActor": "Yuuichirou Umehara",
+    "birthday": "Nov. 5",
+    "height": "189cm",
+    "kitShape": "blinds",
+    "kitMotion": "drift",
+    "kitSignature": "haschwalth-sig-81",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief drift cue.",
+      "Cover: Signature Jugram Haschwalth color field (#beeaf4) expands across screen.",
+      "Reveal: Cover dissolves as The Balance (Schrift B) sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "gerard",
+    "name": "Gerard Valkyrie",
+    "kanji": "ジェラルド・ヴァルキリー",
+    "aliases": [
+      "Sternritter M",
+      "The Miracle",
+      "Heart of the Soul King"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Schutzstaffel",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased (Absorbed by Auswählen)",
+    "power": {
+      "name": "The Miracle (Schrift M)",
+      "release": "Aschetonig Transformation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Manifests the Heart of the Soul King; converts damage into gigantic size growth and miraculous resurrection."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift M",
+        "name": "The Miracle",
+        "desc": "Converts physical and spiritual damage sustained in battle into proportional increases in titan stature and divine muscle.",
+        "tags": [
+          "Heart of Soul King",
+          "Titan Expansion",
+          "Miraculous Rebirth"
+        ]
+      },
+      {
+        "title": "Holy Blade",
+        "name": "Hoffnung",
+        "desc": "A sacred broadsword that reflects damage back to whoever nicks its edge, fracturing enemy blades on contact.",
+        "tags": [
+          "Hope Blade",
+          "Damage Reflection",
+          "Sacred Steel"
+        ]
+      }
+    ],
+    "fxType": "earth",
+    "colors": {
+      "bg": "#c2ccf5",
+      "ink": "#29230a",
+      "accent": "#7d11d4"
+    },
+    "blurb": "The boisterous Schutzstaffel warrior who serves as the living heart of the Soul King. Every mortal wound inflicted upon his body acts as a miracle catalyst that expands him into a mountainous god.",
+    "image": "/assets/characters/gerard.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/gerard.png",
+    "voiceActor": "Tsuyoshi Koyama",
+    "birthday": "Jan. 7",
+    "height": "222cm",
+    "kitShape": "chain-links",
+    "kitMotion": "elastic",
+    "kitSignature": "gerard-sig-88",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Gerard Valkyrie color field (#c2ccf5) expands across screen.",
+      "Reveal: Cover dissolves as The Miracle (Schrift M) sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "lille",
+    "name": "Lille Barro",
+    "kanji": "リジェ・バロ",
+    "aliases": [
+      "Sternritter X",
+      "The X-Axis",
+      "Leader of the Schutzstaffel"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Schutzstaffel Leader",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Scattered",
+    "power": {
+      "name": "The X-Axis (Schrift X)",
+      "release": "Jilliel Manifestation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Rifle shots pierce through everything in their path without a physical projectile; becomes entirely intangible upon opening both eyes."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift X",
+        "name": "The X-Axis",
+        "desc": "His sniper rifle Diagramm pierces uniformly through all barriers between barrel and target without firing a travel projectile.",
+        "tags": [
+          "Spatial Piercing",
+          "Absolute Intangibility",
+          "Unblockable Sniper"
+        ]
+      },
+      {
+        "title": "Vollständig",
+        "name": "Jilliel",
+        "desc": "Transforms into a towering seraphic cocoon and later an avian god capable of firing city-level spatial disintegration beams.",
+        "tags": [
+          "Avian Angel",
+          "Spatial Disintegration",
+          "God of the Axis"
+        ]
+      }
+    ],
+    "fxType": "arrows",
+    "colors": {
+      "bg": "#dac6f6",
+      "ink": "#1c290a",
+      "accent": "#d411b4"
+    },
+    "blurb": "The first Quincy bestowed a Schrift by Yhwach and captain of the elite Schutzstaffel. His sniper rifle shears through targets without trajectory travel, making defense physically impossible.",
+    "image": "/assets/characters/lille.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/lille.png",
+    "voiceActor": "Satoshi Hino",
+    "birthday": "Apr. 11",
+    "height": "182cm",
+    "kitShape": "bars",
+    "kitMotion": "drift",
+    "kitSignature": "lille-sig-95",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief drift cue.",
+      "Cover: Signature Lille Barro color field (#dac6f6) expands across screen.",
+      "Reveal: Cover dissolves as The X-Axis (Schrift X) sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "pernida",
+    "name": "Pernida Parnkgjas",
+    "kanji": "ペルニダ・パルンカジャス",
+    "aliases": [
+      "Sternritter C",
+      "The Compulsory",
+      "Left Arm of the Soul King"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Schutzstaffel",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Compulsory (Schrift C)",
+      "release": "Nerve Extension",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Extends organic nerves that invade matter, forcibly contorting targets into mangled balls of meat while absorbing their traits."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift C",
+        "name": "The Compulsory",
+        "desc": "Shoots organic nerves into organic and mineral matter, forcibly folding and crushing targets while assimilating their knowledge.",
+        "tags": [
+          "Left Arm of Soul King",
+          "Nerve Control",
+          "Forced Contortion"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#f7caf6",
+      "ink": "#0a290b",
+      "accent": "#d4113b"
+    },
+    "blurb": "The hooded entity revealed as the sentient left arm of the Soul King governing evolution and progression. Its invasive nerves seize motor control of opponent flesh before Mayuri halted its cell multiplication.",
+    "image": "/assets/characters/pernida.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/pernida.png",
+    "birthday": "Jan. 19",
+    "height": "150cm",
+    "kitShape": "waves",
+    "kitMotion": "elastic",
+    "kitSignature": "pernida-sig-2",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Pernida Parnkgjas color field (#f7caf6) expands across screen.",
+      "Reveal: Cover dissolves as The Compulsory (Schrift C) sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "askin",
+    "name": "Askin Nakk Le Vaar",
+    "kanji": "アスキン・ナックルヴァール",
+    "aliases": [
+      "Sternritter D",
+      "The Deathdealing"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Schutzstaffel",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Deathdealing (Schrift D)",
+      "release": "Hasshein Manifestation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Manipulates the lethal lethal dosage of any substance—including blood, oxygen, and reishi—turning essential elements into poison."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift D",
+        "name": "The Deathdealing",
+        "desc": "Calculates the lethal dosage of any ingested or experienced substance, lowering targets' resistance until their own blood becomes deadly.",
+        "tags": [
+          "Lethal Dose",
+          "Gift Ball",
+          "Immunity Calibration"
+        ]
+      },
+      {
+        "title": "Vollständig",
+        "name": "Hasshein",
+        "desc": "Encloses his arena in a giant Gift Bereich poisonous dome that suffocates gods and captains alike in high-density lethal fields.",
+        "tags": [
+          "Gift Bereich",
+          "Molecular Poison",
+          "Toxic Sphere"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#f8cedd",
+      "ink": "#0a291e",
+      "accent": "#d45f11"
+    },
+    "blurb": "An easygoing Schutzstaffel warrior who dreads fatal exertion yet survives lethal strikes by manipulating lethal dose thresholds. He defeated Ichigo by making the surrounding atmospheric reishi toxic.",
+    "image": "/assets/characters/askin.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/askin.png",
+    "voiceActor": "Shunsuke Takeuchi",
+    "birthday": "Jun. 6",
+    "height": "187cm",
+    "kitShape": "torn-paper",
+    "kitMotion": "drift",
+    "kitSignature": "askin-sig-9",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief drift cue.",
+      "Cover: Signature Askin Nakk Le Vaar color field (#f8cedd) expands across screen.",
+      "Reveal: Cover dissolves as The Deathdealing (Schrift D) sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "bazzb",
+    "name": "Bazz-B",
+    "kanji": "バズビー",
+    "aliases": [
+      "Bazzard Black",
+      "Sternritter H",
+      "The Heat"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Heat (Schrift H)",
+      "release": "Burner Finger Stances",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Commands ferocious magma flames through numbered Burner Finger techniques that countered Yamamoto's flames."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift H",
+        "name": "Burner Finger 1 through 4",
+        "desc": "Fires searing piercing flame beams from one finger up to a four-finger magma torrent that melts stone.",
+        "tags": [
+          "The Heat",
+          "Burner Finger",
+          "Magma Torrent"
+        ]
+      },
+      {
+        "title": "Finisher",
+        "name": "Burning Full Fingers",
+        "desc": "Unleashes a colossal spiraling spiral inferno from all five fingers that incinerates entire city blocks.",
+        "tags": [
+          "Burning Full Fingers",
+          "City Cremation",
+          "Raging Flame"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#f9dcd2",
+      "ink": "#0a2129",
+      "accent": "#d1d411"
+    },
+    "blurb": "A hot-headed mohawk-sporting Quincy warrior who grew up alongside Haschwalth with dreams of assassinating Yhwach. His Burner Finger flames burn hot enough to offset Ryujin Jakka's residual heat.",
+    "image": "/assets/characters/bazzb.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/bazzb.png",
+    "voiceActor": "Yuki Ono",
+    "birthday": "Jul. 14",
+    "height": "179cm",
+    "kitShape": "shards",
+    "kitMotion": "elastic",
+    "kitSignature": "bazzb-sig-16",
+    "storyboard": [
+      "Anticipation: shards silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Bazz-B color field (#f9dcd2) expands across screen.",
+      "Reveal: Cover dissolves as The Heat (Schrift H) sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "bambietta",
+    "name": "Bambietta Basterbine",
+    "kanji": "バンビエッタ・バスターバイン",
+    "aliases": [
+      "Sternritter E",
+      "The Explode",
+      "Leader of the Bambies"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased (Zombie)",
+    "power": {
+      "name": "The Explode (Schrift E)",
+      "release": "Reishi Impregnation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Turns anything her reishi strikes into a live bomb that detonates from within, bypassing defensive barriers."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift E",
+        "name": "The Explode",
+        "desc": "Rains reishi drops that turn swords, armor, and pavement into active bombs that detonate outward.",
+        "tags": [
+          "The Explode",
+          "Matter Detonation",
+          "Unblockable Bomb"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#faf6d6",
+      "ink": "#0a0e29",
+      "accent": "#59d411"
+    },
+    "blurb": "The vicious leader of the female Sternritter squad who vents frustration by detonating subordinates. Her explosive reishi turns incoming defensive swords into bombs from the inside out.",
+    "image": "/assets/characters/bambietta.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/bambietta.png",
+    "voiceActor": "Ayana Taketatsu",
+    "birthday": "Aug. 6",
+    "height": "156cm",
+    "kitShape": "diamonds",
+    "kitMotion": "drift",
+    "kitSignature": "bambietta-sig-23",
+    "storyboard": [
+      "Anticipation: diamonds silhouette emerges with a brief drift cue.",
+      "Cover: Signature Bambietta Basterbine color field (#faf6d6) expands across screen.",
+      "Reveal: Cover dissolves as The Explode (Schrift E) sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "gremmy",
+    "name": "Gremmy Thoumeaux",
+    "kanji": "グレミィ・トゥミュー",
+    "aliases": [
+      "Sternritter V",
+      "The Visionary"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Visionary (Schrift V)",
+      "release": "Dream Manifestation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Whatever he imagines becomes objective reality—from cookies and machine guns to descending celestial meteors."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift V",
+        "name": "The Visionary",
+        "desc": "Transforms imagination into tangible fact, summoning modern armaments, vacuum domains, and giant meteors at a whim.",
+        "tags": [
+          "Imagination Manifest",
+          "Meteor Summon",
+          "Void Space"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#ebfbdb",
+      "ink": "#1a0a29",
+      "accent": "#11d442"
+    },
+    "blurb": "A disembodied brain sealed in a jar who believed himself the strongest being in existence because whatever he imagined became real. He met his end attempting to imagine a vessel capable of holding Kenpachi's power.",
+    "image": "/assets/characters/gremmy.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/gremmy.png",
+    "voiceActor": "Natsuki Hanae",
+    "birthday": "Jun. 30",
+    "height": "155cm",
+    "kitShape": "ripples",
+    "kitMotion": "elastic",
+    "kitSignature": "gremmy-sig-30",
+    "storyboard": [
+      "Anticipation: ripples silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Gremmy Thoumeaux color field (#ebfbdb) expands across screen.",
+      "Reveal: Cover dissolves as The Visionary (Schrift V) sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "quilge",
+    "name": "Quilge Opie",
+    "kanji": "キルゲ・オピー",
+    "aliases": [
+      "Sternritter J",
+      "The Jail",
+      "Hunting Captain of the Jagdarmee"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Jagdarmee Captain",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Jail (Schrift J)",
+      "release": "Biskiel Manifestation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Creates unbreakable reishi cages that trap non-Quincy beings within spatial prisons; absorbs Ayon via Sklaverei."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift J",
+        "name": "The Jail",
+        "desc": "Constructs an inescapable spiritual cage in the Garganta that traps non-Quincy targets indefinitely.",
+        "tags": [
+          "The Jail",
+          "Inescapable Reishi",
+          "Sklaverei Beast"
+        ]
+      }
+    ],
+    "fxType": "arrows",
+    "colors": {
+      "bg": "#dffbe2",
+      "ink": "#290a25",
+      "accent": "#11d4ba"
+    },
+    "blurb": "The fanatical military drillmaster heading the Hueco Mundo hunting forces. His unbreakable spiritual cage quarantined Ichigo inside the Garganta while the first Quincy invasion ravaged the Seireitei.",
+    "image": "/assets/characters/quilge.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/quilge.png",
+    "voiceActor": "Koichi Yamadera",
+    "birthday": "Sep. 1",
+    "height": "178cm",
+    "kitShape": "hex-grid",
+    "kitMotion": "drift",
+    "kitSignature": "quilge-sig-37",
+    "storyboard": [
+      "Anticipation: hex-grid silhouette emerges with a brief drift cue.",
+      "Cover: Signature Quilge Opie color field (#dffbe2) expands across screen.",
+      "Reveal: Cover dissolves as The Jail (Schrift J) sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "candice",
+    "name": "Candice Catnipp",
+    "kanji": "キャンディス・キャットニップ",
+    "aliases": [
+      "Sternritter T",
+      "The Thunderbolt"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "The Thunderbolt (Schrift T)",
+      "release": "Galvano Blast",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Fires blinding 5-gigavolt lightning spears and broad electrical sword wings."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift T",
+        "name": "Galvano Javelin & 5-Gigavolt Blast",
+        "desc": "Hurls high-voltage electricity bolts that strike with the force of thunder god spears.",
+        "tags": [
+          "The Thunderbolt",
+          "Lightning Javelin",
+          "5 Gigavolts"
+        ]
+      }
+    ],
+    "fxType": "lightning",
+    "colors": {
+      "bg": "#b6f7e5",
+      "ink": "#290a12",
+      "accent": "#1176d4"
+    },
+    "blurb": "The short-tempered green-haired Sternritter whose vanity flares whenever her hair gets singed. She discharges five gigavolts of crackling lightning from her reishi javelins.",
+    "image": "/assets/characters/candice.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/candice.png",
+    "voiceActor": "Yumi Uchiyama",
+    "birthday": "Jun. 7",
+    "height": "166cm",
+    "kitShape": "star-iris",
+    "kitMotion": "elastic",
+    "kitSignature": "candice-sig-44",
+    "storyboard": [
+      "Anticipation: star-iris silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Candice Catnipp color field (#b6f7e5) expands across screen.",
+      "Reveal: Cover dissolves as The Thunderbolt (Schrift T) sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "giselle",
+    "name": "Giselle Gewelle",
+    "kanji": "ジゼル・ジュエル",
+    "aliases": [
+      "Sternritter Z",
+      "The Zombie"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "The Zombie (Schrift Z)",
+      "release": "Blood Infiltration",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Any blood dripping onto living Soul Reapers or corpses turns them into mind-controlled reanimated zombies."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift Z",
+        "name": "The Zombie",
+        "desc": "Splashes her own blood to seize instant biological puppet control of fallen captains and subordinates.",
+        "tags": [
+          "Blood Puppet",
+          "Zombie Legions",
+          "Corpse Control"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#bae2f8",
+      "ink": "#29150a",
+      "accent": "#2511d4"
+    },
+    "blurb": "A seemingly innocent girl whose cheerful smile conceals unsettling necrophilic cruelty. Her blood turns living captains and corpses alike into obedient puppets under her command.",
+    "image": "/assets/characters/giselle.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/giselle.png",
+    "voiceActor": "Nao Toyama",
+    "birthday": "Dec. 24",
+    "height": "160cm",
+    "kitShape": "brush-stroke",
+    "kitMotion": "drift",
+    "kitSignature": "giselle-sig-51",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief drift cue.",
+      "Cover: Signature Giselle Gewelle color field (#bae2f8) expands across screen.",
+      "Reveal: Cover dissolves as The Zombie (Schrift Z) sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "liltotto",
+    "name": "Liltotto Lamperd",
+    "kanji": "リルトット・ランパード",
+    "aliases": [
+      "Sternritter G",
+      "The Glutton"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "The Glutton (Schrift G)",
+      "release": "Jaw Extension",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Unhinges her jaw into a gigantic gaping maw that devours matter, attacks, and opponents whole."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift G",
+        "name": "The Glutton",
+        "desc": "Extends monstrous razor-toothed jaws to swallow enemies and reishi blasts whole, absorbing their strength.",
+        "tags": [
+          "The Glutton",
+          "Devouring Maw",
+          "Matter Consumption"
+        ]
+      }
+    ],
+    "fxType": "hollow",
+    "colors": {
+      "bg": "#bec0f9",
+      "ink": "#29280a",
+      "accent": "#9d11d4"
+    },
+    "blurb": "A blunt and calculating young girl who serves as the logical brain of the female Sternritter squad. Her mouth extends into a monstrous jaw capable of consuming enemy soldiers in single gulps.",
+    "image": "/assets/characters/liltotto.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/liltotto.png",
+    "voiceActor": "Aoi Yuki",
+    "birthday": "Sep. 16",
+    "height": "149cm",
+    "kitShape": "slash",
+    "kitMotion": "elastic",
+    "kitSignature": "liltotto-sig-58",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Liltotto Lamperd color field (#bec0f9) expands across screen.",
+      "Reveal: Cover dissolves as The Glutton (Schrift G) sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "meninas",
+    "name": "Meninas McAllon",
+    "kanji": "ミニーニャ・マカロン",
+    "aliases": [
+      "Sternritter P",
+      "The Power"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Alive",
+    "power": {
+      "name": "The Power (Schrift P)",
+      "release": "Muscle Density Surge",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Possesses colossal superhuman physical strength capable of lifting and throwing multi-ton masonry blocks."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift P",
+        "name": "The Power",
+        "desc": "Channels monstrous muscle density to lift city buildings with one arm and obliterate defensive barriers.",
+        "tags": [
+          "The Power",
+          "Titan Muscle",
+          "Building Toss"
+        ]
+      }
+    ],
+    "fxType": "earth",
+    "colors": {
+      "bg": "#e2c2f9",
+      "ink": "#17290a",
+      "accent": "#d41193"
+    },
+    "blurb": "A demure pink-haired girl who speaks softly while wielding strength capable of tossing colossal stone towers with one hand. She crushed enemy fortifications alongside the Bambies.",
+    "image": "/assets/characters/meninas.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/meninas.png",
+    "voiceActor": "Reina Ueda",
+    "birthday": "Mar. 9",
+    "height": "191cm",
+    "kitShape": "circle-iris",
+    "kitMotion": "drift",
+    "kitSignature": "meninas-sig-65",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief drift cue.",
+      "Cover: Signature Meninas McAllon color field (#e2c2f9) expands across screen.",
+      "Reveal: Cover dissolves as The Power (Schrift P) sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "bg9",
+    "name": "BG9",
+    "kanji": "ベー・ゲー・ノイン",
+    "aliases": [
+      "Sternritter K"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "Mechanical Arsenal & Data Extraction",
+      "release": "Heavy Cannon Array",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "An emotionless mechanical cyborg fitted with heavy gatling guns, cables, and tactical drills."
+    },
+    "powerSteps": [
+      {
+        "title": "Arsenal",
+        "name": "Heavy Reishi Gatling",
+        "desc": "Deploys multi-barrel repeating cannons and flexible steel probes to extract tactical biological data.",
+        "tags": [
+          "Cyborg Guns",
+          "Data Extraction",
+          "Mechanical Steel"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#fac7f0",
+      "ink": "#0a2910",
+      "accent": "#d4111b"
+    },
+    "blurb": "An eerie mechanical cyborg knight who claims to have never breathed or felt emotion. Armed with high-caliber gatling guns, he extracted Soi Fon's Bankai during the first invasion.",
+    "image": "/assets/characters/bg9.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/bg9.png",
+    "voiceActor": "Hideyuki Tanaka",
+    "height": "190cm",
+    "kitShape": "blinds",
+    "kitMotion": "elastic",
+    "kitSignature": "bg9-sig-72",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief elastic cue.",
+      "Cover: Signature BG9 color field (#fac7f0) expands across screen.",
+      "Reveal: Cover dissolves as Mechanical Arsenal & Data Extraction sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "pepe",
+    "name": "PePe Waccabrada",
+    "kanji": "ペペ・ワキャブラーダ",
+    "aliases": [
+      "Sternritter W",
+      "The Love"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Love (Schrift W)",
+      "release": "Gudoero Manifestation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Fires heart-shaped beams that induce passionate devotion, turning victims into adoring thralls."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift W",
+        "name": "The Love",
+        "desc": "Fires glowing pink hearts that enslave the wills of whoever they touch to fight on his behalf.",
+        "tags": [
+          "The Love",
+          "Heart Thralls",
+          "Affection Enslavement"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#fbcbd4",
+      "ink": "#0a2923",
+      "accent": "#d48011"
+    },
+    "blurb": "An obese hovering Quincy who demands affection from all living things. His heart-shaped beams enchant the souls of allies and foes alike until Liltotto devoured him.",
+    "image": "/assets/characters/pepe.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/pepe.png",
+    "voiceActor": "Ryu Yamaguchi",
+    "birthday": "Apr. 3",
+    "height": "146cm",
+    "kitShape": "chain-links",
+    "kitMotion": "drift",
+    "kitSignature": "pepe-sig-79",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief drift cue.",
+      "Cover: Signature PePe Waccabrada color field (#fbcbd4) expands across screen.",
+      "Reveal: Cover dissolves as The Love (Schrift W) sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "driscoll",
+    "name": "Driscoll Berci",
+    "kanji": "ドリスコール・ベルチ",
+    "aliases": [
+      "Sternritter O",
+      "The Overkill"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Overkill (Schrift O)",
+      "release": "Kill Count Buff",
+      "shikai": "N/A",
+      "bankai": "Koko Gonryo Rikyu (Stolen)",
+      "notes": "Gains exponential strength with every kill."
+    },
+    "fxType": "lightning",
+    "colors": {
+      "bg": "#fbe3d0",
+      "ink": "#0a1c29",
+      "accent": "#b1d411"
+    },
+    "blurb": "A brutal giant who grew exponentially stronger with every life he ended in battle. After murdering Sasakibe, he was incinerated to ash by Yamamoto's roaring vengeance.",
+    "image": "/assets/characters/driscoll.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/driscoll.png",
+    "voiceActor": "Nobuaki Kanemitsu",
+    "birthday": "Mar. 25",
+    "height": "235cm",
+    "kitShape": "bars",
+    "kitMotion": "elastic",
+    "kitSignature": "driscoll-sig-86",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Driscoll Berci color field (#fbe3d0) expands across screen.",
+      "Reveal: Cover dissolves as The Overkill (Schrift O) sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "mask",
+    "name": "Mask De Masculine",
+    "kanji": "マスク・ド・マスキュリン",
+    "aliases": [
+      "Sternritter S",
+      "The Superstar"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Superstar (Schrift S)",
+      "release": "Cheer Buff",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Heals mortal wounds and gains infinite strength from his fan James cheering him."
+    },
+    "fxType": "earth",
+    "colors": {
+      "bg": "#fafcd4",
+      "ink": "#0c0a29",
+      "accent": "#38d411"
+    },
+    "blurb": "A theatrical luchador who draws infinite recovery and physical power from his ringside fan James. He battered multiple captains before Renji's true Bankai extinguished him.",
+    "image": "/assets/characters/mask.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/mask.png",
+    "voiceActor": "Yasuhiro Mamiya",
+    "birthday": "Oct. 20",
+    "height": "200cm",
+    "kitShape": "waves",
+    "kitMotion": "drift",
+    "kitSignature": "mask-sig-93",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief drift cue.",
+      "Cover: Signature Mask De Masculine color field (#fafcd4) expands across screen.",
+      "Reveal: Cover dissolves as The Superstar (Schrift S) sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "nanana",
+    "name": "NaNaNa Najahkoop",
+    "kanji": "ナナナ・ナジャークープ",
+    "aliases": [
+      "Sternritter U",
+      "The Underbelly"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Underbelly (Schrift U)",
+      "release": "Reiatsu Morphing Grid",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Analyzes opponent spiritual pressure grids to paralyze weak points."
+    },
+    "fxType": "kido",
+    "colors": {
+      "bg": "#e5fdd9",
+      "ink": "#1f0a29",
+      "accent": "#11d462"
+    },
+    "blurb": "A patient sniper who observes opponent spiritual pressure patterns to pinpoint critical distribution flaws. His paralyzing morphing grid briefly incapacitated Aizen.",
+    "image": "/assets/characters/nanana.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/nanana.png",
+    "voiceActor": "Tomoaki Maeno",
+    "birthday": "Feb. 27",
+    "height": "192cm",
+    "kitShape": "torn-paper",
+    "kitMotion": "elastic",
+    "kitSignature": "nanana-sig-0",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief elastic cue.",
+      "Cover: Signature NaNaNa Najahkoop color field (#e5fdd9) expands across screen.",
+      "Reveal: Cover dissolves as The Underbelly (Schrift U) sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "cangdu",
+    "name": "Cang Du",
+    "kanji": "蒼都",
+    "aliases": [
+      "Sternritter I",
+      "The Iron"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Iron (Schrift I)",
+      "release": "Body Hardening",
+      "shikai": "N/A",
+      "bankai": "Daiguren Hyorinmaru (Stolen)",
+      "notes": "Hardens his skin to impenetrable iron to nullify blade cuts."
+    },
+    "fxType": "blades",
+    "colors": {
+      "bg": "#ddfde6",
+      "ink": "#290a20",
+      "accent": "#11ced4"
+    },
+    "blurb": "A stoic martial artist whose Schrift I turned his flesh into unbreakable iron against executioners. He was executed by Haschwalth's Balance after failing to retain Hitsugaya's Bankai.",
+    "image": "/assets/characters/cangdu.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/cangdu.png",
+    "voiceActor": "Ryo Kuratomi",
+    "birthday": "May 27",
+    "height": "177cm",
+    "kitShape": "shards",
+    "kitMotion": "drift",
+    "kitSignature": "cangdu-sig-7",
+    "storyboard": [
+      "Anticipation: shards silhouette emerges with a brief drift cue.",
+      "Cover: Signature Cang Du color field (#ddfde6) expands across screen.",
+      "Reveal: Cover dissolves as The Iron (Schrift I) sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "royd",
+    "name": "Royd Lloyd",
+    "kanji": "ロイド・ロイド",
+    "aliases": [
+      "Sternritter Y",
+      "The Yourself (Right)"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Yourself (Schrift Y)",
+      "release": "Memory & Mind Copy",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Copies the complete memories, personality, and skills of targets."
+    },
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#b1fbf4",
+      "ink": "#290a0d",
+      "accent": "#1155d4"
+    },
+    "blurb": "The twin brother who could copy not merely the appearance but the entirety of a target's memories and knowledge. He impersonated Yhwach seamlessly during the opening invasion of the Seireitei.",
+    "image": "/assets/characters/royd.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/royd.png",
+    "voiceActor": "Yusuke Kobayashi",
+    "birthday": "Apr. 28",
+    "height": "170cm",
+    "kitShape": "diamonds",
+    "kitMotion": "elastic",
+    "kitSignature": "royd-sig-14",
+    "storyboard": [
+      "Anticipation: diamonds silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Royd Lloyd color field (#b1fbf4) expands across screen.",
+      "Reveal: Cover dissolves as The Yourself (Schrift Y) sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "asnodt",
+    "name": "Äs Nödt",
+    "kanji": "エス・ノト",
+    "aliases": [
+      "Sternritter F",
+      "The Fear"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Fear (Schrift F)",
+      "release": "Tartarforas",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Fires Reishi thorns that inflict limitless panic and terror, causing the hearts of victims to rupture."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift F",
+        "name": "The Fear",
+        "desc": "Injects paralyzing psychological dread into targets through Reishi thorns.",
+        "tags": [
+          "Terror",
+          "Reishi",
+          "Psychological"
+        ]
+      },
+      {
+        "title": "Vollständig",
+        "name": "Tartarforas",
+        "desc": "Bizarre form covered in sewing stitches and endless weeping eyes that project fear directly through the optic nerve.",
+        "tags": [
+          "Vollständig",
+          "Optic Fear"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#b6d8fc",
+      "ink": "#291a0a",
+      "accent": "#4511d4"
+    },
+    "blurb": "Sternritter F who wields The Fear. He brutally wounded Byakuya Kuchiki using his stolen Bankai before being obliterated by Rukia Kuchiki’s absolute-zero Hakka no Togame.",
+    "image": "/assets/characters/asnodt.png",
+    "headshot": "/assets/headshots/asnodt.png",
+    "voiceActor": "Yoshitsugu Matsuoka",
+    "birthday": "Dec. 29",
+    "height": "179cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "ripples",
+    "kitMotion": "drift",
+    "kitSignature": "asnodt-sig-21",
+    "storyboard": [
+      "Anticipation: ripples silhouette emerges with a brief drift cue.",
+      "Cover: Signature Äs Nödt color field (#b6d8fc) expands across screen.",
+      "Reveal: Cover dissolves as The Fear (Schrift F) sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "robert",
+    "name": "Robert Accutrone",
+    "kanji": "ロバート・アキュトロン",
+    "aliases": [
+      "Sternritter N",
+      "Grimaniel"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "Schrift N",
+      "release": "Grimaniel",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Expert gunslinger utilizing spatial acceleration and enhanced Quincy firearms."
+    },
+    "powerSteps": [
+      {
+        "title": "Vollständig",
+        "name": "Grimaniel",
+        "desc": "Manifests wings of light enabling near-instantaneous high-speed teleportation and close-range handgun blasts.",
+        "tags": [
+          "Speed",
+          "Firearms",
+          "Vollständig"
+        ]
+      }
+    ],
+    "fxType": "arrows",
+    "colors": {
+      "bg": "#c3bafc",
+      "ink": "#25290a",
+      "accent": "#be11d4"
+    },
+    "blurb": "A veteran Sternritter who permanently blinded Captain Shunsui Kyoraku’s right eye during the first invasion before perishing under Yhwach’s Auswählen.",
+    "image": "/assets/characters/robert.png",
+    "headshot": "/assets/headshots/robert.png",
+    "voiceActor": "Takaya Hashi",
+    "birthday": "N/A",
+    "height": "176cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "hex-grid",
+    "kitMotion": "elastic",
+    "kitSignature": "robert-sig-28",
+    "storyboard": [
+      "Anticipation: hex-grid silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Robert Accutrone color field (#c3bafc) expands across screen.",
+      "Reveal: Cover dissolves as Schrift N sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "berenice",
+    "name": "Berenice Gabrielli",
+    "kanji": "ベレニケ・ガブリエリ",
+    "aliases": [
+      "Sternritter Q",
+      "The Question"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Question (Schrift Q)",
+      "release": "Doubt Manipulation",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Forces opponents into endless spirals of existential doubt and self-questioning."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift Q",
+        "name": "The Question",
+        "desc": "Verbally bombards enemies with debilitating philosophical paradoxes.",
+        "tags": [
+          "Mind",
+          "Debuff"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#edbffd",
+      "ink": "#12290a",
+      "accent": "#d41173"
+    },
+    "blurb": "Sternritter Q who attempted to trap Kenpachi Zaraki in doubt, only to be promptly silenced when Kenpachi tore out his throat.",
+    "image": "/assets/characters/berenice.png",
+    "headshot": "/assets/headshots/berenice.png",
+    "voiceActor": "KENN",
+    "birthday": "Feb. 8",
+    "height": "174cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "star-iris",
+    "kitMotion": "drift",
+    "kitSignature": "berenice-sig-35",
+    "storyboard": [
+      "Anticipation: star-iris silhouette emerges with a brief drift cue.",
+      "Cover: Signature Berenice Gabrielli color field (#edbffd) expands across screen.",
+      "Reveal: Cover dissolves as The Question (Schrift Q) sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "jerome",
+    "name": "Jerome Guizbatt",
+    "kanji": "ジェローム・ギズバット",
+    "aliases": [
+      "Sternritter R",
+      "The Roar"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Roar (Schrift R)",
+      "release": "Sonic Shockwave",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Transforms into an ape-like beast unleashing concussive sonic screams that rupture enemy organs."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift R",
+        "name": "The Roar",
+        "desc": "Generates deafening acoustic blasts capable of crushing stone and eardrums.",
+        "tags": [
+          "Sonic",
+          "Brute"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#fdc4e8",
+      "ink": "#0a2915",
+      "accent": "#d42811"
+    },
+    "blurb": "Sternritter R who assumed bestial form against Kenpachi Zaraki, only to be vertically bisected by Zaraki’s Zanpakuto.",
+    "image": "/assets/characters/jerome.png",
+    "headshot": "/assets/headshots/jerome.png",
+    "voiceActor": "Takahiro Fujiwara",
+    "birthday": "Aug. 25",
+    "height": "189cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "brush-stroke",
+    "kitMotion": "elastic",
+    "kitSignature": "jerome-sig-42",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Jerome Guizbatt color field (#fdc4e8) expands across screen.",
+      "Reveal: Cover dissolves as The Roar (Schrift R) sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "james",
+    "name": "James",
+    "kanji": "ジェームズ",
+    "aliases": [
+      "The Superstar Fan",
+      "Ring Companion"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Vanguard Supporter",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Cheers (Schrift S Core)",
+      "release": "Fanatical Revival",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Chants enthusiastic cheers that instantaneously heal and empower Mask De Masculine with infinite strength."
+    },
+    "powerSteps": [
+      {
+        "title": "Vocal Fanaticism",
+        "name": "Cheering Support",
+        "desc": "No matter how many times Mask is cut down, James’s cheers restore him to prime fighting form.",
+        "tags": [
+          "Buff",
+          "Regeneration"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#f7cfd0",
+      "ink": "#0a2928",
+      "accent": "#d4a011"
+    },
+    "blurb": "The diminutive hype-man whose unending adoration fueled Mask De Masculine’s invincible wrestling stardom until sliced away by Renji Abarai.",
+    "image": "/assets/characters/james.png",
+    "headshot": "/assets/headshots/james.png",
+    "voiceActor": "Kenichi Suzumura",
+    "birthday": "N/A",
+    "height": "92cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "slash",
+    "kitMotion": "drift",
+    "kitSignature": "james-sig-49",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief drift cue.",
+      "Cover: Signature James color field (#f7cfd0) expands across screen.",
+      "Reveal: Cover dissolves as The Cheers (Schrift S Core) sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "gwenael",
+    "name": "Gwenael Lee",
+    "kanji": "グエナエル・リー",
+    "aliases": [
+      "The Vanishing Point",
+      "Gremmy Creation"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Phantom Vanguard",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "Vanishing Point (Schrift V Product)",
+      "release": "Memory Erasure",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Erases his form from vision, tangible existence, and even the minds and memories of opponents."
+    },
+    "powerSteps": [
+      {
+        "title": "Triple Phasing",
+        "name": "Vanishing Existence",
+        "desc": "Steps out of physical dimension and erases his existence from enemy memory before striking.",
+        "tags": [
+          "Stealth",
+          "Phase"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#f8e9d3",
+      "ink": "#0a1629",
+      "accent": "#90d411"
+    },
+    "blurb": "An elusive phantom conjured into reality by Gremmy Thoumeaux’s imagination who clashed with Yachiru before Gremmy dissolved his existence.",
+    "image": "/assets/characters/gwenael.png",
+    "headshot": "/assets/headshots/gwenael.png",
+    "voiceActor": "Tadashi Miyazawa",
+    "birthday": "N/A",
+    "height": "155cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "circle-iris",
+    "kitMotion": "elastic",
+    "kitSignature": "gwenael-sig-56",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Gwenael Lee color field (#f8e9d3) expands across screen.",
+      "Reveal: Cover dissolves as Vanishing Point (Schrift V Product) sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "nianzol",
+    "name": "Nianzol Weizol",
+    "kanji": "ニャンゾル・ワイゾル",
+    "aliases": [
+      "Sternritter W",
+      "The Wind"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Sternritter",
+    "tier": "B",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "The Wind (Schrift W)",
+      "release": "Trajectory Deflection",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Instinctively bends and deflects all attacks and weapons away from him in mid-air before they can make contact."
+    },
+    "powerSteps": [
+      {
+        "title": "Schrift W",
+        "name": "The Wind",
+        "desc": "Warps space to divert incoming blades and spells away harmlessly.",
+        "tags": [
+          "Deflection",
+          "Space"
+        ]
+      }
+    ],
+    "fxType": "gravity",
+    "colors": {
+      "bg": "#f1f9d8",
+      "ink": "#110a29",
+      "accent": "#18d411"
+    },
+    "blurb": "The double-tongued Sternritter hiding under Yhwach’s shadow whose impenetrable defensive field was pierced and woven through by Senjumaru Shutara’s tapestry needles.",
+    "image": "/assets/characters/nianzol.png",
+    "headshot": "/assets/headshots/nianzol.png",
+    "voiceActor": "Soichiro Hoshi",
+    "birthday": "May 21",
+    "height": "156cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "blinds",
+    "kitMotion": "drift",
+    "kitSignature": "nianzol-sig-63",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief drift cue.",
+      "Cover: Signature Nianzol Weizol color field (#f1f9d8) expands across screen.",
+      "Reveal: Cover dissolves as The Wind (Schrift W) sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "ebern",
+    "name": "Asguiaro Ebern",
+    "kanji": "アズギエロ・イーバーン",
+    "aliases": [
+      "Quincy Vanguard",
+      "Medallion Scout"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Scout Vanguard",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "Bankai Plunder Medallion",
+      "release": "Reishi Cross Cannon",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Combines Arrancar hollow energy with Quincy Reishi artillery and Bankai stealing medallions."
+    },
+    "powerSteps": [
+      {
+        "title": "Medallion Probe",
+        "name": "Bankai Sealing Attempt",
+        "desc": "Attempted to seal Ichigo’s Bankai with a Wandenreich medallion, failing due to Ichigo’s inner Hollow essence.",
+        "tags": [
+          "Medallion",
+          "Quincy Art"
+        ]
+      }
+    ],
+    "fxType": "hollow",
+    "colors": {
+      "bg": "#e1f9dc",
+      "ink": "#240a29",
+      "accent": "#11d483"
+    },
+    "blurb": "An Arrancar subjugated into Wandenreich service who assaulted Ichigo in Karakura Town to test the Bankai-stealing Medallion.",
+    "image": "/assets/characters/ebern.png",
+    "headshot": "/assets/headshots/ebern.png",
+    "voiceActor": "Wataru Komada",
+    "birthday": "Jun. 18",
+    "height": "181cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "chain-links",
+    "kitMotion": "elastic",
+    "kitSignature": "ebern-sig-70",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Asguiaro Ebern color field (#e1f9dc) expands across screen.",
+      "Reveal: Cover dissolves as Bankai Plunder Medallion sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "luders",
+    "name": "Lüdaas Friegen",
+    "kanji": "リューダース・フリーゲン",
+    "aliases": [
+      "War Messenger",
+      "Wandenreich Vanguard"
+    ],
+    "faction": "Wandenreich",
+    "divisionRank": "Diplomatic Vanguard",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Deceased",
+    "power": {
+      "name": "Quincy Reishi Bow",
+      "release": "War Declaration",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Specializes in stealth infiltration and formal diplomatic wartime declaration."
+    },
+    "powerSteps": [
+      {
+        "title": "Ultimatum Delivery",
+        "name": "Declaration of War",
+        "desc": "Delivered Yhwach’s ultimatum to Captain-Commander Yamamoto, declaring Soul Society’s destruction within 5 days.",
+        "tags": [
+          "War",
+          "Quincy"
+        ]
+      }
+    ],
+    "fxType": "arrows",
+    "colors": {
+      "bg": "#e0faec",
+      "ink": "#290a1b",
+      "accent": "#11add4"
+    },
+    "blurb": "The insolent Wandenreich soldier who confronted Yamamoto in the 1st Division barracks, subsequently decapitated by Yhwach for speaking of the distant future.",
+    "image": "/assets/characters/luders.png",
+    "headshot": "/assets/headshots/luders.png",
+    "voiceActor": "Daiki Hamano",
+    "birthday": "Aug. 12",
+    "height": "184cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "bars",
+    "kitMotion": "drift",
+    "kitSignature": "luders-sig-77",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief drift cue.",
+      "Cover: Signature Lüdaas Friegen color field (#e0faec) expands across screen.",
+      "Reveal: Cover dissolves as Quincy Reishi Bow sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  }
+]

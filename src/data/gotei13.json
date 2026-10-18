@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "byakuya",
+    "name": "Byakuya Kuchiki",
+    "kanji": "朽木 白哉",
+    "aliases": [
+      "Captain of the Sixth Division",
+      "28th Head of the Kuchiki Clan"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 6)",
+    "tier": "A",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Senbonzakura",
+      "release": "Scatter (Chire)",
+      "shikai": "Senbonzakura",
+      "bankai": "Senbonzakura Kageyoshi",
+      "notes": "Splits blade into millions of microscopic razor petals that catch light like cherry blossoms."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Senbonzakura",
+        "desc": "The blade dissolves into a thousand miniature razor-sharp blade fragments propelled by the hilt.",
+        "tags": [
+          "Scatter",
+          "Blossom Blades",
+          "Mid-Range Cutting"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Senbonzakura Kageyoshi",
+        "desc": "Two rows of giant swords emerge from the ground, dissolving into countless millions of blade petals guided by thought.",
+        "tags": [
+          "Million Blades",
+          "Domain Storm",
+          "Steel Garden"
+        ]
+      },
+      {
+        "title": "Finisher",
+        "name": "Shukei: Hakuteiken",
+        "desc": "Condenses all blade petals into a single radiant white bird of light for supreme piercing force.",
+        "tags": [
+          "White Imperial Sword",
+          "Radiant Wings",
+          "Single Strike"
+        ]
+      }
+    ],
+    "fxType": "petals",
+    "colors": {
+      "bg": "#f7e4ea",
+      "ink": "#3a1d2b",
+      "accent": "#d1517a"
+    },
+    "blurb": "The aristocratic 28th head of the noble Kuchiki clan whose unflinching devotion to the law conceals profound personal loyalty. His Zanpakuto dissolves into millions of microscopic blade petals that execute flawless judgment.",
+    "image": "/assets/characters/byakuya.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Byakuya Kuchiki Power Reel"
+    },
+    "headshot": "/assets/headshots/byakuya.png",
+    "voiceActor": "Ryotaro Okiayu",
+    "birthday": "Jan. 31",
+    "height": "180cm",
+    "kitShape": "brush-stroke",
+    "kitMotion": "elastic",
+    "kitSignature": "byakuya-sig-54",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Byakuya Kuchiki color field (#f7e4ea) expands across screen.",
+      "Reveal: Cover dissolves as Senbonzakura sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "renji",
+    "name": "Renji Abarai",
+    "kanji": "阿散井 恋次",
+    "aliases": [
+      "Lieutenant of the Sixth Division",
+      "Red Pineapple"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 6)",
+    "tier": "A",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Zabimaru",
+      "release": "Howl (Hoero)",
+      "shikai": "Zabimaru",
+      "bankai": "Hihio Zabimaru / Soo Zabimaru",
+      "notes": "A segmented bone-whip blade that extends across long distances and crushes armor."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Zabimaru",
+        "desc": "A heavy segmented whip-sword that extends and retracts with explosive snap strikes.",
+        "tags": [
+          "Bone Whip",
+          "Howl",
+          "Segmented Extension"
+        ]
+      },
+      {
+        "title": "Initial Bankai",
+        "name": "Hihio Zabimaru",
+        "desc": "Manifests a colossal skeletal baboon-snake dragon that crushes targets and discharges Hikotsu Taiho blasts.",
+        "tags": [
+          "Baboon King",
+          "Bone Segment",
+          "Hikotsu Taiho"
+        ]
+      },
+      {
+        "title": "True Bankai",
+        "name": "Soo Zabimaru",
+        "desc": "Its true compact twin-king form granting the baboon fist Hihio and the snake cleaver Orochi'o for crushing thrusts.",
+        "tags": [
+          "Twin Kings",
+          "Zaga Teppo",
+          "True Release"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#b3121f",
+      "ink": "#ffffff",
+      "accent": "#ff5a0a"
+    },
+    "blurb": "A passionate brawler from the lawless Inuzuri district who clawed his way to sixth division lieutenant. Driven by fierce loyalty, his segmented whip-sword fractures terrain with relentless forward momentum.",
+    "image": "/assets/characters/renji.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Renji Abarai Power Reel"
+    },
+    "headshot": "/assets/headshots/renji.png",
+    "voiceActor": "Kentaro Ito",
+    "birthday": "Aug. 31",
+    "height": "188cm",
+    "kitShape": "slash",
+    "kitMotion": "drift",
+    "kitSignature": "renji-sig-61",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief drift cue.",
+      "Cover: Signature Renji Abarai color field (#b3121f) expands across screen.",
+      "Reveal: Cover dissolves as Zabimaru sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "rukia",
+    "name": "Rukia Kuchiki",
+    "kanji": "朽木 ルキア",
+    "aliases": [
+      "Thirteenth Division Captain",
+      "Ice Maiden"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 13)",
+    "tier": "A",
+    "firstArc": "Agent of the Shinigami",
+    "status": "Alive",
+    "power": {
+      "name": "Sode no Shirayuki",
+      "release": "Dance (Mae)",
+      "shikai": "Sode no Shirayuki",
+      "bankai": "Hakka no Togame",
+      "notes": "Regarded as the most beautiful Zanpakuto in Soul Society; lowers the wielder's temperature to absolute zero."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Some no Mai: Tsukishiro",
+        "desc": "Traces a pristine circle with her pure white blade, sending a towering pillar of absolute cold skyward.",
+        "tags": [
+          "First Dance",
+          "White Moon",
+          "Absolute Frost Pillar"
+        ]
+      },
+      {
+        "title": "Advanced Dance",
+        "name": "Tsugi no Mai: Hakuren",
+        "desc": "Drives four puncture marks into the ground to unleash an avalanche of crystalline frost across the field.",
+        "tags": [
+          "Next Dance",
+          "White Ripple",
+          "Glacial Avalanche"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Hakka no Togame",
+        "desc": "Transforms her body into a frozen goddess draped in white ribbons, freezing all matter within radius to absolute zero instantly.",
+        "tags": [
+          "White Haze Punishment",
+          "Absolute Zero",
+          "Instant Freeze"
+        ]
+      }
+    ],
+    "fxType": "ice",
+    "colors": {
+      "bg": "#e6f0f8",
+      "ink": "#0b2a45",
+      "accent": "#3f8fd0"
+    },
+    "blurb": "Dignified yet stubborn, she introduced Ichigo to the spirit realm and anchors the emotional core of the Gotei 13. Her pure white blade manipulates sub-zero temperatures with graceful lethality.",
+    "image": "/assets/characters/rukia.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Rukia Kuchiki Power Reel"
+    },
+    "headshot": "/assets/headshots/rukia.png",
+    "voiceActor": "Fumiko Orikasa",
+    "birthday": "Jan. 14",
+    "height": "144cm",
+    "kitShape": "circle-iris",
+    "kitMotion": "elastic",
+    "kitSignature": "rukia-sig-68",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Rukia Kuchiki color field (#e6f0f8) expands across screen.",
+      "Reveal: Cover dissolves as Sode no Shirayuki sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "toshiro",
+    "name": "Toshiro Hitsugaya",
+    "kanji": "日番谷 冬獅郎",
+    "aliases": [
+      "Captain of the Tenth Division",
+      "Prodigy of the Soul Society"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 10)",
+    "tier": "A",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Hyorinmaru",
+      "release": "Sit Upon the Frozen Heavens (Soten ni Zase)",
+      "shikai": "Hyorinmaru",
+      "bankai": "Daiguren Hyorinmaru",
+      "notes": "Commands atmospheric moisture to generate the strongest ice and water Zanpakuto in Soul Society."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Hyorinmaru",
+        "desc": "Projects a massive dragon of ice and freezing water extending from the blade tip to freeze anything it bites.",
+        "tags": [
+          "Ice Dragon",
+          "Atmospheric Water",
+          "Chain Crescent"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Daiguren Hyorinmaru",
+        "desc": "Encases his torso in crystalline dragon wings, tail, and freeze flowers that track his power accumulation.",
+        "tags": [
+          "Great Crimson Ice Dragon",
+          "Glacial Wings",
+          "Freeze Petals"
+        ]
+      },
+      {
+        "title": "Completed Bankai",
+        "name": "Mature Daiguren Hyorinmaru",
+        "desc": "Upon petal exhaustion, his body ages into full adulthood, freezing all functional matter and abilities within four paces instantly.",
+        "tags": [
+          "Shikai Hyoketsu",
+          "Absolute Freeze",
+          "Concept Freezing"
+        ]
+      }
+    ],
+    "fxType": "ice",
+    "colors": {
+      "bg": "#bfeaf5",
+      "ink": "#07324a",
+      "accent": "#2fa8d8"
+    },
+    "blurb": "The youngest prodigy captain in Soul Society history whose cool tactical brilliance outpaces veteran peers. His glacial Zanpakuto commands atmospheric storms to summon colossal ice dragons.",
+    "image": "/assets/characters/toshiro.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Toshiro Hitsugaya Power Reel"
+    },
+    "headshot": "/assets/headshots/toshiro.png",
+    "voiceActor": "Romi Park",
+    "birthday": "Dec. 20",
+    "height": "133cm",
+    "kitShape": "blinds",
+    "kitMotion": "drift",
+    "kitSignature": "toshiro-sig-75",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief drift cue.",
+      "Cover: Signature Toshiro Hitsugaya color field (#bfeaf5) expands across screen.",
+      "Reveal: Cover dissolves as Hyorinmaru sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "kenpachi",
+    "name": "Kenpachi Zaraki",
+    "kanji": "更木 剣八",
+    "aliases": [
+      "Captain of the Eleventh Division",
+      "The Demon of the North"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 11)",
+    "tier": "A",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Nozarashi & Raw Reiatsu",
+      "release": "Drink (Nomikose)",
+      "shikai": "Nozarashi",
+      "bankai": "Unnamed Canon Berserker State",
+      "notes": "Commands monstrous spiritual pressure that manifests as a towering golden skull; cuts through meteors with sheer brute force."
+    },
+    "powerSteps": [
+      {
+        "title": "Martial Stance",
+        "name": "Kendo: Ryodan",
+        "desc": "Grips his blade with two hands to focus untamed spiritual pressure into a singular downward cleave that bisects colossal foes.",
+        "tags": [
+          "Two-Handed Kendo",
+          "Bisection",
+          "Pure Pressure"
+        ]
+      },
+      {
+        "title": "Shikai",
+        "name": "Nozarashi",
+        "desc": "Transforms into a gargantuan cleaver axe capable of cleaving giant descending meteorites cleanly in half.",
+        "tags": [
+          "Drink Nozarashi",
+          "Colossal Cleaver",
+          "Meteor Buster"
+        ]
+      },
+      {
+        "title": "Untamed Reiatsu",
+        "name": "Golden Skull Reiatsu",
+        "desc": "Releases centuries of self-imposed subconscious limiters, flooding the sky with golden spirit pressure that paralyzes nearby fighters.",
+        "tags": [
+          "Unsealed Force",
+          "Golden Skull Aura",
+          "Unstoppable Rampage"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#eab308",
+      "ink": "#18181b",
+      "accent": "#dc2626"
+    },
+    "blurb": "The eleventh Kenpachi who fights purely for the exhilaration of steel colliding with bone. His overwhelming spiritual energy is so immense that even unreleased blows shear through monolithic stone.",
+    "image": "/assets/characters/kenpachi.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Kenpachi Zaraki Power Reel"
+    },
+    "headshot": "/assets/headshots/kenpachi.png",
+    "voiceActor": "Fumihiko Tachiki",
+    "birthday": "Nov. 19",
+    "height": "202cm",
+    "kitShape": "chain-links",
+    "kitMotion": "elastic",
+    "kitSignature": "kenpachi-sig-82",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Kenpachi Zaraki color field (#eab308) expands across screen.",
+      "Reveal: Cover dissolves as Nozarashi & Raw Reiatsu sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "aizen",
+    "name": "Sosuke Aizen",
+    "kanji": "藍染 惣右介",
+    "aliases": [
+      "Former Fifth Division Captain",
+      "Lord of Las Noches"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Captain (Div 5)",
+    "tier": "A",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Imprisoned in Muken",
+    "power": {
+      "name": "Kyoka Suigetsu & Hogyoku Fusion",
+      "release": "Shatter (Kudakero)",
+      "shikai": "Kyoka Suigetsu",
+      "bankai": "Unrevealed",
+      "notes": "Possesses Complete Hypnosis (Kanzen Saimin), manipulating all five senses of anyone who views its release."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Kyoka Suigetsu",
+        "desc": "Commands Complete Hypnosis over all five senses, manipulating touch, taste, sight, sound, and smell of all viewers.",
+        "tags": [
+          "Kanzen Saimin",
+          "Sensory Control",
+          "Mirage Projection"
+        ]
+      },
+      {
+        "title": "Kido Supremacy",
+        "name": "Hado #90: Kurohitsugi",
+        "desc": "Conjures a towering black coffin of gravitational force with torrents of dark energy to pulverize targets without chanting.",
+        "tags": [
+          "Black Coffin",
+          "Gravity Torrent",
+          "Incantation Free"
+        ]
+      },
+      {
+        "title": "Transcendent State",
+        "name": "Hogyoku Immortality",
+        "desc": "Fused permanently with the Hogyoku, granting absolute biological regeneration and spiritual pressure capable of shooting down the Soul King Palace.",
+        "tags": [
+          "Absolute Immortality",
+          "Reiatsu Pressure",
+          "Transcendent"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#e2e8f0",
+      "ink": "#0f172a",
+      "accent": "#6366f1"
+    },
+    "blurb": "A mastermind of peerless intellect whose hypnotic Kyoka Suigetsu fractured the Soul Society from within. Fused with the Hogyoku, he stands as an immortal entity commanding godlike spiritual pressure.",
+    "image": "/assets/characters/aizen.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": "Sosuke Aizen Power Reel"
+    },
+    "headshot": "/assets/headshots/aizen.png",
+    "voiceActor": "Show Hayami",
+    "birthday": "May 29",
+    "height": "186cm",
+    "kitShape": "bars",
+    "kitMotion": "drift",
+    "kitSignature": "aizen-sig-89",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief drift cue.",
+      "Cover: Signature Sosuke Aizen color field (#e2e8f0) expands across screen.",
+      "Reveal: Cover dissolves as Kyoka Suigetsu & Hogyoku Fusion sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "yamamoto",
+    "name": "Genryusai Yamamoto",
+    "kanji": "山本元柳斎 重國",
+    "aliases": [
+      "Captain-Commander",
+      "Founder of Gotei 13"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain-Commander (Div 1)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Ryujin Jakka",
+      "release": "Reduce All Creation to Ash (Shojin Tokase)",
+      "shikai": "Ryujin Jakka",
+      "bankai": "Zanka no Tachi",
+      "notes": "The oldest and most powerful fire Zanpakuto in Soul Society, burning at core-sun temperatures."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Ryujin Jakka",
+        "desc": "Envelops the surrounding atmosphere in roaring infernos capable of reducing everything to ash.",
+        "tags": [
+          "Prime Flame",
+          "Shojin Tokase",
+          "Thermal Inferno"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Zanka no Tachi",
+        "desc": "Seals all flame into the blade edge, cloaking his body in 15 million degree heat and raising scorched skeletons of fallen foes.",
+        "tags": [
+          "Flame Edge",
+          "15 Million Degrees",
+          "Undead Legions"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#f9d2ef",
+      "ink": "#0a2912",
+      "accent": "#d41411"
+    },
+    "blurb": "The ruthless founder of the Gotei 13 who held supreme command for a thousand years. His fire Zanpakuto blazes with heat rivaling the sun itself to eradicate dissent.",
+    "image": "/assets/characters/yamamoto.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/yamamoto.png",
+    "voiceActor": "Binbin Takaoka",
+    "birthday": "Jan. 21",
+    "height": "168cm",
+    "kitShape": "waves",
+    "kitMotion": "elastic",
+    "kitSignature": "yamamoto-sig-96",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Genryusai Yamamoto color field (#f9d2ef) expands across screen.",
+      "Reveal: Cover dissolves as Ryujin Jakka sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "sasakibe",
+    "name": "Chojiro Sasakibe",
+    "kanji": "雀部長次郎 忠息",
+    "aliases": [
+      "First Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 1)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Gonryomaru",
+      "release": "Pierce (Ugate)",
+      "shikai": "Gonryomaru",
+      "bankai": "Koko Gonryo Rikyu",
+      "notes": "Commands weather and natural lightning, producing lightning domes that scar captains."
+    },
+    "powerSteps": [
+      {
+        "title": "Bankai",
+        "name": "Koko Gonryo Rikyu",
+        "desc": "Manipulates atmospheric storms to summon lightning cages from the heavens that channel lethal volts directly into opponents.",
+        "tags": [
+          "Yellow Lightning Palace",
+          "Weather Command",
+          "Storm Cage"
+        ]
+      }
+    ],
+    "fxType": "lightning",
+    "colors": {
+      "bg": "#fad6db",
+      "ink": "#0a2925",
+      "accent": "#d48d11"
+    },
+    "blurb": "Yamamoto's loyal second-in-command who achieved Bankai before many modern captains yet remained in service. His lightning dome once scarred the Captain-Commander himself.",
+    "image": "/assets/characters/sasakibe.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/sasakibe.png",
+    "voiceActor": "Taro Yamaguchi",
+    "birthday": "Nov. 4",
+    "height": "179cm",
+    "kitShape": "torn-paper",
+    "kitMotion": "drift",
+    "kitSignature": "sasakibe-sig-3",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief drift cue.",
+      "Cover: Signature Chojiro Sasakibe color field (#fad6db) expands across screen.",
+      "Reveal: Cover dissolves as Gonryomaru sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "soifon",
+    "name": "Soi Fon",
+    "kanji": "砕蜂",
+    "aliases": [
+      "Commander of the Onmitsukido",
+      "Captain of the Second Division"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 2)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Suzumebachi",
+      "release": "Sting All Enemies to Death (Jinteki Shakusetsu)",
+      "shikai": "Suzumebachi",
+      "bankai": "Jakuho Raikoben",
+      "notes": "Inflicts Nigeki Kessatsu (death in two steps) by striking the same location twice."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Suzumebachi",
+        "desc": "A golden finger stinger that imprints a butterfly crest on first strike; a second strike on the same spot kills instantly.",
+        "tags": [
+          "Nigeki Kessatsu",
+          "Two-Step Death",
+          "Butterfly Crest"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Jakuho Raikoben",
+        "desc": "A massive arm-mounted missile cannon that launches a devastating explosive projectile counter to stealth.",
+        "tags": [
+          "Hornet Cannon",
+          "Artillery Missile",
+          "Massive Explosion"
+        ]
+      }
+    ],
+    "fxType": "speed",
+    "colors": {
+      "bg": "#fbebdb",
+      "ink": "#0a1a29",
+      "accent": "#a4d411"
+    },
+    "blurb": "The uncompromising leader of the stealth force who couples blinding assassination speed with two-strike lethal precision. She holds herself and her subordinates to merciless martial standards.",
+    "image": "/assets/characters/soifon.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/soifon.png",
+    "voiceActor": "Houko Kuwashima",
+    "birthday": "Feb. 11",
+    "height": "150cm",
+    "kitShape": "shards",
+    "kitMotion": "elastic",
+    "kitSignature": "soifon-sig-10",
+    "storyboard": [
+      "Anticipation: shards silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Soi Fon color field (#fbebdb) expands across screen.",
+      "Reveal: Cover dissolves as Suzumebachi sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "omaeda",
+    "name": "Marechiyo Omaeda",
+    "kanji": "大前田 日光田郎右衛門 美菖蒲介 希千代",
+    "aliases": [
+      "Lieutenant of the Second Division"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 2)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Gegetsuburi",
+      "release": "Crush (Tsubuse)",
+      "shikai": "Gegetsuburi",
+      "bankai": "N/A",
+      "notes": "A massive spiked flail on a long steel chain."
+    },
+    "fxType": "earth",
+    "colors": {
+      "bg": "#f8fbdf",
+      "ink": "#0e0a29",
+      "accent": "#2bd411"
+    },
+    "blurb": "The wealthy second division lieutenant who appears clumsy yet moves with unexpected stealth speed when danger threatens. He uses his spiked flail to pin adversaries for his captain.",
+    "image": "/assets/characters/omaeda.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/omaeda.png",
+    "voiceActor": "Shouto Kashii",
+    "birthday": "May 5",
+    "height": "210cm",
+    "kitShape": "diamonds",
+    "kitMotion": "drift",
+    "kitSignature": "omaeda-sig-17",
+    "storyboard": [
+      "Anticipation: diamonds silhouette emerges with a brief drift cue.",
+      "Cover: Signature Marechiyo Omaeda color field (#f8fbdf) expands across screen.",
+      "Reveal: Cover dissolves as Gegetsuburi sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "gin",
+    "name": "Gin Ichimaru",
+    "kanji": "市丸 ギン",
+    "aliases": [
+      "Former Third Division Captain",
+      "The Silver Viper"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Captain (Div 3)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Shinso",
+      "release": "Shoot 'em Dead (Ikorose)",
+      "shikai": "Shinso",
+      "bankai": "Kamishini no Yari",
+      "notes": "Extends at hypersonic velocity and leaves lethal cellular-destroying poison behind."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Shinso",
+        "desc": "Extends his short wakizashi instantly like a silver viper to pierce targets hundreds of paces away.",
+        "tags": [
+          "Shoot 'Em Dead",
+          "Silver Spear",
+          "High-Speed Extension"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Kamishini no Yari",
+        "desc": "Extends up to 13 kilometers at 500 times the speed of sound, leaving a microscopic chip inside targets that dissolves cells from within.",
+        "tags": [
+          "God-Killing Spear",
+          "Cellular Poison",
+          "Hypersonic Thrust"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#c7f7b6",
+      "ink": "#210a29",
+      "accent": "#11d46f"
+    },
+    "blurb": "A smiling prodigy whose serpent-like demeanor masked a centuries-long vendetta against Aizen. His extending blade strikes faster than sound to dissolve targets at a cellular level.",
+    "image": "/assets/characters/gin.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/gin.png",
+    "kitShape": "ripples",
+    "kitMotion": "elastic",
+    "kitSignature": "gin-sig-24",
+    "storyboard": [
+      "Anticipation: ripples silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Gin Ichimaru color field (#c7f7b6) expands across screen.",
+      "Reveal: Cover dissolves as Shinso sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "kira",
+    "name": "Izuru Kira",
+    "kanji": "吉良 イヅル",
+    "aliases": [
+      "Lieutenant of the Third Division"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 3)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Wabisuke",
+      "release": "Raise Your Head (Omote o Agero)",
+      "shikai": "Wabisuke",
+      "bankai": "N/A",
+      "notes": "Doubles the weight of anything it strikes with each consecutive blow until the opponent bows their head."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Wabisuke",
+        "desc": "A hook-angled blade that doubles the physical weight of anything it strikes, forcing enemies to their knees under crushing gravity.",
+        "tags": [
+          "Weight Doubling",
+          "Hook Blade",
+          "Inescapable Gravitas"
+        ]
+      }
+    ],
+    "fxType": "gravity",
+    "colors": {
+      "bg": "#baf8cf",
+      "ink": "#290a1e",
+      "accent": "#11c1d4"
+    },
+    "blurb": "A somber lieutenant whose hook-shaped blade doubles the weight of struck targets until they bow their heads as if apologizing. He carries a melancholy view of war as an inescapable sorrow.",
+    "image": "/assets/characters/kira.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/kira.png",
+    "voiceActor": "Takahiro Sakurai",
+    "birthday": "Mar. 27",
+    "height": "173cm",
+    "kitShape": "hex-grid",
+    "kitMotion": "drift",
+    "kitSignature": "kira-sig-31",
+    "storyboard": [
+      "Anticipation: hex-grid silhouette emerges with a brief drift cue.",
+      "Cover: Signature Izuru Kira color field (#baf8cf) expands across screen.",
+      "Reveal: Cover dissolves as Wabisuke sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "unohana",
+    "name": "Retsu Unohana",
+    "kanji": "卯ノ花 烈 / 八千流",
+    "aliases": [
+      "First Kenpachi (Yachiru Unohana)",
+      "Fourth Division Captain"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 4)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Minazuki",
+      "release": "Healing Ray & All Things' End",
+      "shikai": "Minazuki (Stingray)",
+      "bankai": "Minazuki (Acid Blood Blade)",
+      "notes": "Master of every sword art style who heals allies or coats her blade in caustic blood acid."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Minazuki",
+        "desc": "Manifests a flying manta-ray creature whose digestive juices heal mortal wounds rapidly.",
+        "tags": [
+          "Flying Manta",
+          "Biological Healing",
+          "Digestive Restoration"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Minazuki (True Release)",
+        "desc": "Coats her arena and blade in caustic dark blood that strips flesh and heals in an endless cycle of duel combat.",
+        "tags": [
+          "All Things' End",
+          "Blood Acid",
+          "First Kenpachi"
+        ]
+      }
+    ],
+    "fxType": "water",
+    "colors": {
+      "bg": "#bef9f7",
+      "ink": "#290a0b",
+      "accent": "#1148d4"
+    },
+    "blurb": "The gentle chief medical captain who secretly reigned as the first Kenpachi and bloodiest criminal in Soul Society history. She gave her life awakening Zaraki's true sealed power.",
+    "image": "/assets/characters/unohana.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/unohana.png",
+    "voiceActor": "Aya Hisakawa",
+    "birthday": "Apr. 21",
+    "height": "159cm",
+    "kitShape": "star-iris",
+    "kitMotion": "elastic",
+    "kitSignature": "unohana-sig-38",
+    "storyboard": [
+      "Anticipation: star-iris silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Retsu Unohana color field (#bef9f7) expands across screen.",
+      "Reveal: Cover dissolves as Minazuki sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "isane",
+    "name": "Isane Kotetsu",
+    "kanji": "虎徹 勇音",
+    "aliases": [
+      "Fourth Division Captain / Former Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 4)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Itegumo",
+      "release": "Run (Hashire)",
+      "shikai": "Itegumo",
+      "bankai": "N/A",
+      "notes": "A three-pronged frozen-cloud rapier and high-tier medical Kido."
+    },
+    "fxType": "ice",
+    "colors": {
+      "bg": "#c2d9f9",
+      "ink": "#291c0a",
+      "accent": "#5211d4"
+    },
+    "blurb": "A tall and earnest healer who succeeded Unohana as captain of the medical division. She commands long-range communication Kido and defensive three-pronged spirit arts.",
+    "image": "/assets/characters/isane.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/isane.png",
+    "voiceActor": "Yukana",
+    "birthday": "Aug. 2",
+    "height": "187cm",
+    "kitShape": "brush-stroke",
+    "kitMotion": "drift",
+    "kitSignature": "isane-sig-45",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief drift cue.",
+      "Cover: Signature Isane Kotetsu color field (#c2d9f9) expands across screen.",
+      "Reveal: Cover dissolves as Itegumo sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "hanataro",
+    "name": "Hanataro Yamada",
+    "kanji": "山田 花太郎",
+    "aliases": [
+      "Seventh Seat Healer"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Third Seat (Div 4)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Hisagomaru",
+      "release": "Fulfill (Mitase)",
+      "shikai": "Hisagomaru",
+      "bankai": "N/A",
+      "notes": "Absorbs damage into a red gauge then fires Akeiro Hisagomaru scalpel blast."
+    },
+    "fxType": "water",
+    "colors": {
+      "bg": "#d1c7fa",
+      "ink": "#23290a",
+      "accent": "#cb11d4"
+    },
+    "blurb": "A timid medic who assisted Ichigo's rescue party through the sewers of the Seireitei. His Zanpakuto heals wounds by absorbing damage into a gauge that unleashes a concentrated surgical shockwave.",
+    "image": "/assets/characters/hanataro.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/hanataro.png",
+    "kitShape": "slash",
+    "kitMotion": "elastic",
+    "kitSignature": "hanataro-sig-52",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Hanataro Yamada color field (#d1c7fa) expands across screen.",
+      "Reveal: Cover dissolves as Hisagomaru sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "hinamori",
+    "name": "Momo Hinamori",
+    "kanji": "雛森 桃",
+    "aliases": [
+      "Fifth Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 5)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Tobiume",
+      "release": "Snap (Hajike)",
+      "shikai": "Tobiume",
+      "bankai": "N/A",
+      "notes": "A pronged blade that fires explosive fireballs and combines seamlessly with Kido nets."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Tobiume",
+        "desc": "Fires bouncing explosive fireballs from side prongs to create interconnected trap nets.",
+        "tags": [
+          "Flying Plum Tree",
+          "Fireball",
+          "Kido Fusion"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#f2cbfb",
+      "ink": "#10290a",
+      "accent": "#d41166"
+    },
+    "blurb": "A dedicated Kido prodigy whose early devotion to Aizen made his betrayal uniquely devastating. Having healed her spirit, she weaves intricate flame nets as fifth division lieutenant.",
+    "image": "/assets/characters/hinamori.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/hinamori.png",
+    "voiceActor": "Kumi Sakuma",
+    "birthday": "Jun. 3",
+    "height": "151cm",
+    "kitShape": "circle-iris",
+    "kitMotion": "drift",
+    "kitSignature": "hinamori-sig-59",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief drift cue.",
+      "Cover: Signature Momo Hinamori color field (#f2cbfb) expands across screen.",
+      "Reveal: Cover dissolves as Tobiume sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "komamura",
+    "name": "Sajin Komamura",
+    "kanji": "狛村 左陣",
+    "aliases": [
+      "Former Seventh Division Captain"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Captain (Div 7)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive (Animal Form)",
+    "power": {
+      "name": "Tenken",
+      "release": "Roar (Todoroke)",
+      "shikai": "Tenken",
+      "bankai": "Kokujo Tengen Myo'o: Dangai Joe",
+      "notes": "Mirrors his strikes with a colossal armored samurai giant; Humanization technique grants brief invincibility."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Tenken",
+        "desc": "Materializes giant armored limbs that copy his sword swings with titan force.",
+        "tags": [
+          "Heavenly Retribution",
+          "Titan Strike",
+          "Armored Giant"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Kokujo Tengen Myo'o: Dangai Joe",
+        "desc": "The samurai giant casts aside its heavy armor, exposing raw demonic energy and granting temporary invincibility at the cost of his mortal form.",
+        "tags": [
+          "Unarmored Titan",
+          "Humanization Secret",
+          "Immortality Contract"
+        ]
+      }
+    ],
+    "fxType": "earth",
+    "colors": {
+      "bg": "#fbd0e8",
+      "ink": "#0a2917",
+      "accent": "#d43511"
+    },
+    "blurb": "A canine-featured warrior of unbending honor who pledged undying debt to Captain-Commander Yamamoto. In the final Quincy invasion, he sacrificed his heart for the transient power to defeat Bambietta.",
+    "image": "/assets/characters/komamura.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/komamura.png",
+    "voiceActor": "Tetsu Inada",
+    "birthday": "Aug. 23",
+    "height": "288cm",
+    "kitShape": "blinds",
+    "kitMotion": "elastic",
+    "kitSignature": "komamura-sig-66",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Sajin Komamura color field (#fbd0e8) expands across screen.",
+      "Reveal: Cover dissolves as Tenken sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "iba",
+    "name": "Tetsuzaemon Iba",
+    "kanji": "射場 鉄左衛門",
+    "aliases": [
+      "Seventh Division Captain"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 7)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Broad Pick Blade",
+      "release": "Unnamed",
+      "shikai": "Pick-Point Blade",
+      "bankai": "Unnamed",
+      "notes": "All-round combatant proficient in swordplay, Kido, and physical brawling."
+    },
+    "fxType": "earth",
+    "colors": {
+      "bg": "#fcd6d4",
+      "ink": "#0a2729",
+      "accent": "#d4ad11"
+    },
+    "blurb": "A sunglasses-wearing veteran who balanced all combat disciplines to support his captain. He ascended to lead the seventh division following Komamura's sacrifice.",
+    "image": "/assets/characters/iba.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/iba.png",
+    "voiceActor": "Rintaro Nishi",
+    "birthday": "Jul. 18",
+    "height": "182cm",
+    "kitShape": "chain-links",
+    "kitMotion": "drift",
+    "kitSignature": "iba-sig-73",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief drift cue.",
+      "Cover: Signature Tetsuzaemon Iba color field (#fcd6d4) expands across screen.",
+      "Reveal: Cover dissolves as Broad Pick Blade sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "shunsui",
+    "name": "Shunsui Kyoraku",
+    "kanji": "京楽 春水",
+    "aliases": [
+      "Captain-Commander",
+      "Former Eighth Division Captain"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain-Commander (Div 1)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Katen Kyokotsu",
+      "release": "Flower Wind Rages, Flower God Weeps",
+      "shikai": "Katen Kyokotsu",
+      "bankai": "Katen Kyokotsu: Karamatsu Shinju",
+      "notes": "Forces opponents into deadly children's games and stages theatrical suicidal plays."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Katen Kyokotsu",
+        "desc": "Twin scimitar blades that materialize children's games like Bushogoma, Takaoni, and Kageoni as lethal reality rules.",
+        "tags": [
+          "Twin Blades",
+          "Shadow Games",
+          "Color Slashes"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Katen Kyokotsu: Karamatsu Shinju",
+        "desc": "Enshrouds the surrounding area in dark despair, forcing opponent and wielder through four tragic acts of mutual destruction.",
+        "tags": [
+          "Withered Pine Lovers' Suicide",
+          "Shared Wounds",
+          "Throat Severing"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#fdf1d9",
+      "ink": "#0a1429",
+      "accent": "#83d411"
+    },
+    "blurb": "A relaxed bon vivant draped in pink flowered haori who conceals terrifying martial intellect. Chosen to lead the Soul Society after Yamamoto's fall, his shadow games make every duel a lethal gamble.",
+    "image": "/assets/characters/shunsui.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/shunsui.png",
+    "voiceActor": "Akio Otsuka",
+    "birthday": "Jul. 11",
+    "height": "192cm",
+    "kitShape": "bars",
+    "kitMotion": "elastic",
+    "kitSignature": "shunsui-sig-80",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Shunsui Kyoraku color field (#fdf1d9) expands across screen.",
+      "Reveal: Cover dissolves as Katen Kyokotsu sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "nanao",
+    "name": "Nanao Ise",
+    "kanji": "伊勢 七緒",
+    "aliases": [
+      "First Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 1)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Shinken Hakkyoken",
+      "release": "Mirror God Blade",
+      "shikai": "Shinken Hakkyoken",
+      "bankai": "N/A",
+      "notes": "A hiltless divine mirror sword that reflects the power of gods in eight directions."
+    },
+    "powerSteps": [
+      {
+        "title": "Divine Blade",
+        "name": "Shinken Hakkyoken",
+        "desc": "A holy heirloom that cannot cut mortals but absorbs and scatters divine attacks in eight directions.",
+        "tags": [
+          "Eight-Mirror Sword",
+          "God Dispersal",
+          "Holy Relic"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#f4fddd",
+      "ink": "#130a29",
+      "accent": "#11d418"
+    },
+    "blurb": "A disciplined Kido master whose meticulous administrative skill keeps Shunsui focused. She wields her family's divine heirloom mirror blade to deflect god-tier heavenly energy.",
+    "image": "/assets/characters/nanao.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/nanao.png",
+    "voiceActor": "Hitomi Nabatame",
+    "birthday": "Jul. 7",
+    "height": "164cm",
+    "kitShape": "waves",
+    "kitMotion": "drift",
+    "kitSignature": "nanao-sig-87",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief drift cue.",
+      "Cover: Signature Nanao Ise color field (#f4fddd) expands across screen.",
+      "Reveal: Cover dissolves as Shinken Hakkyoken sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "tosen",
+    "name": "Kaname Tosen",
+    "kanji": "東仙 要",
+    "aliases": [
+      "Former Ninth Division Captain"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Captain (Div 9)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Suzumushi",
+      "release": "Cry (Nake)",
+      "shikai": "Suzumushi",
+      "bankai": "Suzumushi Tsuishiki: Enma Korogi",
+      "notes": "Commands sonic vibrations and creates a void dome that strips all senses except touch."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Suzumushi: Benihiko",
+        "desc": "Vibrates his blade to launch hundreds of flying steel rain swords at targets.",
+        "tags": [
+          "Cricket Cry",
+          "Crimson Flying Locusts",
+          "Sonic Wave"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Suzumushi Tsuishiki: Enma Korogi",
+        "desc": "Erects a colossal dark dome that strips all targets within of sight, sound, smell, and spiritual sensing.",
+        "tags": [
+          "Enma Cricket",
+          "Sensory Void",
+          "Absolute Darkness"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#b9fbb1",
+      "ink": "#260a29",
+      "accent": "#11d490"
+    },
+    "blurb": "A blind captain driven by an unyielding desire for justice following a comrade's murder. Believing Aizen walked the path of least bloodshed, his sound blade envelopes targets in a sensory sensory void.",
+    "image": "/assets/characters/tosen.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/tosen.png",
+    "kitShape": "torn-paper",
+    "kitMotion": "elastic",
+    "kitSignature": "tosen-sig-94",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Kaname Tosen color field (#b9fbb1) expands across screen.",
+      "Reveal: Cover dissolves as Suzumushi sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "hisagi",
+    "name": "Shuhei Hisagi",
+    "kanji": "檜佐木 修兵",
+    "aliases": [
+      "Ninth Division Lieutenant",
+      "Editor-in-Chief of Seireitei Bulletin"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 9)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Kazeshini",
+      "release": "Reap (Kare)",
+      "shikai": "Kazeshini",
+      "bankai": "Fushi no Kojyo",
+      "notes": "Twin scythes on chains designed to reap life; Bankai binds both fighters in immortal chain loops."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Kazeshini",
+        "desc": "Two dual-bladed scythes connected by a long chain that whips wildly along unpredictable arcs.",
+        "tags": [
+          "Wind of Death",
+          "Reaping Scythe",
+          "Chain Dynamics"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Fushi no Kojyo",
+        "desc": "Suspends both himself and his enemy in a colossal sphere of black chains where neither can die while energy remains.",
+        "tags": [
+          "Unyielding Gallows",
+          "Immortal Binding",
+          "Mutual Depletion"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#b6fcda",
+      "ink": "#290a19",
+      "accent": "#11a0d4"
+    },
+    "blurb": "A veteran lieutenant scarred by war who insists on fearing his own weapon to respect the gravity of taking life. His chain-scythes sweep unpredictably to snare foes in unbreakable coils.",
+    "image": "/assets/characters/hisagi.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/hisagi.png",
+    "voiceActor": "Katsuyuki Konishi",
+    "birthday": "Aug. 14",
+    "height": "181cm",
+    "kitShape": "shards",
+    "kitMotion": "drift",
+    "kitSignature": "hisagi-sig-1",
+    "storyboard": [
+      "Anticipation: shards silhouette emerges with a brief drift cue.",
+      "Cover: Signature Shuhei Hisagi color field (#b6fcda) expands across screen.",
+      "Reveal: Cover dissolves as Kazeshini sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "matsumoto",
+    "name": "Rangiku Matsumoto",
+    "kanji": "松本 乱菊",
+    "aliases": [
+      "Tenth Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 10)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Haineko",
+      "release": "Growl (Unare)",
+      "shikai": "Haineko",
+      "bankai": "N/A",
+      "notes": "Dissolves into ash that cuts wherever it lands upon a flick of the hilt."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Haineko",
+        "desc": "Disintegrates into a billowing cloud of ash that envelops targets and slices wherever it settles.",
+        "tags": [
+          "Ash Cat",
+          "Cloud of Blades",
+          "Suffocating Dust"
+        ]
+      }
+    ],
+    "fxType": "petals",
+    "colors": {
+      "bg": "#baf3fc",
+      "ink": "#290e0a",
+      "accent": "#1128d4"
+    },
+    "blurb": "The free-spirited tenth division lieutenant whose easygoing demeanor balances Hitsugaya's intensity. Her blade dissolves into ash clouds that cut into targets with suffocating grace.",
+    "image": "/assets/characters/matsumoto.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/matsumoto.png",
+    "voiceActor": "Kaya Matsutani",
+    "birthday": "Sep. 29",
+    "height": "172cm",
+    "kitShape": "diamonds",
+    "kitMotion": "elastic",
+    "kitSignature": "matsumoto-sig-8",
+    "storyboard": [
+      "Anticipation: diamonds silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Rangiku Matsumoto color field (#baf3fc) expands across screen.",
+      "Reveal: Cover dissolves as Haineko sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "yachiru",
+    "name": "Yachiru Kusajishi",
+    "kanji": "草鹿 やちる",
+    "aliases": [
+      "Former Eleventh Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Lieutenant (Div 11)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Manifestation of Nozarashi",
+    "power": {
+      "name": "Sanpo Kenju",
+      "release": "N/A",
+      "shikai": "Sanpo Kenju",
+      "bankai": "N/A",
+      "notes": "Summons invisible spirit beasts that strike directly ahead and behind her sword swings."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Sanpo Kenju",
+        "desc": "Two invisible creature beasts mimic her swings, guaranteeing hits even if her initial attack misses.",
+        "tags": [
+          "Three-Step Sword Beasts",
+          "Unavoidable Strike",
+          "Spirit Mimic"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#bfcefd",
+      "ink": "#29210a",
+      "accent": "#7311d4"
+    },
+    "blurb": "The cheerful pink-haired lieutenant who perched on Kenpachi's shoulder through every battle. She was ultimately revealed as the spiritual manifestation of his Zanpakuto Nozarashi.",
+    "image": "/assets/characters/yachiru.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/yachiru.png",
+    "voiceActor": "Hisayo Mochizuki",
+    "birthday": "Feb. 12",
+    "height": "109cm",
+    "kitShape": "ripples",
+    "kitMotion": "drift",
+    "kitSignature": "yachiru-sig-15",
+    "storyboard": [
+      "Anticipation: ripples silhouette emerges with a brief drift cue.",
+      "Cover: Signature Yachiru Kusajishi color field (#bfcefd) expands across screen.",
+      "Reveal: Cover dissolves as Sanpo Kenju sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "ikkaku",
+    "name": "Ikkaku Madarame",
+    "kanji": "斑目 一角",
+    "aliases": [
+      "Eleventh Division Lieutenant",
+      "Lucky Seven"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 11)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Hozukimaru",
+      "release": "Extend (Nobiro) / Split (Sakero)",
+      "shikai": "Hozukimaru",
+      "bankai": "Ryumon Hozukimaru",
+      "notes": "A spear that splits into a three-section staff; Bankai awakens with an axe-cleaver dragon crest."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Hozukimaru",
+        "desc": "Transitions fluidly between a long thrusting spear and an unpredictable three-section staff.",
+        "tags": [
+          "Spear Staff",
+          "Three-Section",
+          "Surprise Split"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Ryumon Hozukimaru",
+        "desc": "Three massive bladed weapons linked by heavy chains; a dragon crest fills with crimson as combat intensifies.",
+        "tags": [
+          "Dragon Crest",
+          "Giant Cleaver",
+          "Peak Awakening"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#d9c4fd",
+      "ink": "#1e290a",
+      "accent": "#d411be"
+    },
+    "blurb": "A bald battle fanatic who lives solely for the honor of serving under Zaraki Kenpachi. He concealed his own Bankai for years to avoid being transferred away from his captain.",
+    "image": "/assets/characters/ikkaku.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/ikkaku.png",
+    "voiceActor": "Nobuyuki Hiyama",
+    "birthday": "Nov. 9",
+    "height": "182cm",
+    "kitShape": "hex-grid",
+    "kitMotion": "elastic",
+    "kitSignature": "ikkaku-sig-22",
+    "storyboard": [
+      "Anticipation: hex-grid silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Ikkaku Madarame color field (#d9c4fd) expands across screen.",
+      "Reveal: Cover dissolves as Hozukimaru sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "yumichika",
+    "name": "Yumichika Ayasegawa",
+    "kanji": "綾瀬川 弓親",
+    "aliases": [
+      "Fifth Seat of Eleventh Division"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Fifth Seat (Div 11)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Ruri'iro Kujaku",
+      "release": "Bloom Madness (Sakikurue)",
+      "shikai": "Ruri'iro Kujaku",
+      "bankai": "N/A",
+      "notes": "A reishi-draining kido-type vine blade hidden as a four-sickle four-blade fan."
+    },
+    "powerSteps": [
+      {
+        "title": "True Shikai",
+        "name": "Ruri'iro Kujaku",
+        "desc": "The blade dissolves into glowing vines that entangle targets, draining their spiritual pressure to feed flowering peacock buds.",
+        "tags": [
+          "Azure Peacock",
+          "Reishi Drain",
+          "Flowering Vines"
+        ]
+      }
+    ],
+    "fxType": "kido",
+    "colors": {
+      "bg": "#f6cff7",
+      "ink": "#0b290a",
+      "accent": "#d41145"
+    },
+    "blurb": "A vain combatant who conceals his blade's true Kido nature to honor the Eleventh Division's melee-only philosophy. When unobserved, his vines drain reishi until foes collapse.",
+    "image": "/assets/characters/yumichika.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/yumichika.png",
+    "voiceActor": "Jun Fukuyama",
+    "birthday": "Sep. 19",
+    "height": "169cm",
+    "kitShape": "star-iris",
+    "kitMotion": "drift",
+    "kitSignature": "yumichika-sig-29",
+    "storyboard": [
+      "Anticipation: star-iris silhouette emerges with a brief drift cue.",
+      "Cover: Signature Yumichika Ayasegawa color field (#f6cff7) expands across screen.",
+      "Reveal: Cover dissolves as Ruri'iro Kujaku sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "mayuri",
+    "name": "Mayuri Kurotsuchi",
+    "kanji": "涅 マユリ",
+    "aliases": [
+      "Captain of the Twelfth Division",
+      "President of the SRDI"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Captain (Div 12)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Ashisogi Jizo",
+      "release": "Claw (Kakimushire)",
+      "shikai": "Ashisogi Jizo",
+      "bankai": "Konjiki Ashisogi Jizo: Makai Fukuin Shotaie",
+      "notes": "Paralyzes limbs through nerve severance; Bankai births modified biological monstrosities to counter opponent counters."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Ashisogi Jizo",
+        "desc": "A trident-like golden baby blade whose stabs sever neural motor signals without nullifying pain receptors.",
+        "tags": [
+          "Neural Paralysis",
+          "Golden Blade",
+          "Motor Severance"
+        ]
+      },
+      {
+        "title": "Bankai",
+        "name": "Konjiki Ashisogi Jizo",
+        "desc": "A colossal golden caterpillar with an infant head that expels lethal airborne poison mist across wide quadrants.",
+        "tags": [
+          "Poison Mist",
+          "Giant Caterpillar",
+          "Biological Horror"
+        ]
+      },
+      {
+        "title": "Modified Bankai",
+        "name": "Makai Fukuin Shotaie",
+        "desc": "A pregnant belly manifestation that births custom modified Ashisogi variations tailored on the fly to counter enemy abilities.",
+        "tags": [
+          "Adaptive Birth",
+          "Live Countermeasure",
+          "Scientific Zenith"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#f8d3e2",
+      "ink": "#0a291d",
+      "accent": "#d45511"
+    },
+    "blurb": "The grotesque mad scientist heading the Research and Development Institute who views every battlefield as a petri dish. With endless modifications and paralyzing poisons, he dissects impossible adversaries.",
+    "image": "/assets/characters/mayuri.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/mayuri.png",
+    "voiceActor": "Ryusei Nakao",
+    "birthday": "Mar. 30",
+    "height": "174cm",
+    "kitShape": "brush-stroke",
+    "kitMotion": "elastic",
+    "kitSignature": "mayuri-sig-36",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Mayuri Kurotsuchi color field (#f8d3e2) expands across screen.",
+      "Reveal: Cover dissolves as Ashisogi Jizo sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "nemu",
+    "name": "Nemu Kurotsuchi",
+    "kanji": "涅 ネム",
+    "aliases": [
+      "Lieutenant of the Twelfth Division"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 12)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Regenerated as Nemuri Hachigo",
+    "power": {
+      "name": "Gikon Jushinto & Artificial Evolution",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "An artificial body housing extraordinary physical density and organ regeneration."
+    },
+    "powerSteps": [
+      {
+        "title": "Cellular Release",
+        "name": "Gikon Jushinto",
+        "desc": "Burns away 6% of her cellular soul capacity to launch a titanic energy drill capable of piercing transcendent Quincy flesh.",
+        "tags": [
+          "Soul Drill",
+          "Cellular Sacrifice",
+          "Transcendent Output"
+        ]
+      }
+    ],
+    "fxType": "lightning",
+    "colors": {
+      "bg": "#f9dfd8",
+      "ink": "#0a2229",
+      "accent": "#d4ce11"
+    },
+    "blurb": "Mayuri's seventh artificial daughter who evolved beyond preprogrammed limitations into an independent soul. Her superhuman muscle density can incinerate divine foes at severe cellular cost.",
+    "image": "/assets/characters/nemu.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/nemu.png",
+    "voiceActor": "Rie Kugimiya",
+    "birthday": "Mar. 30",
+    "height": "167cm",
+    "kitShape": "slash",
+    "kitMotion": "drift",
+    "kitSignature": "nemu-sig-43",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief drift cue.",
+      "Cover: Signature Nemu Kurotsuchi color field (#f9dfd8) expands across screen.",
+      "Reveal: Cover dissolves as Gikon Jushinto & Artificial Evolution sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "akon",
+    "name": "Akon",
+    "kanji": "阿近",
+    "aliases": [
+      "Twelfth Division Lieutenant",
+      "Vice-President of the SRDI"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 12)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "SRDI Data Systems",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Controls dimensional Senkaimon gates and Seireitei emergency monitors."
+    },
+    "fxType": "kido",
+    "colors": {
+      "bg": "#f9f5dc",
+      "ink": "#0a0f29",
+      "accent": "#62d411"
+    },
+    "blurb": "The pragmatic cigarette-smoking vice president of the science institute who keeps the Seireitei operational during Mayuri's absences. He authorized opening the Garganta to bring Ichigo home.",
+    "image": "/assets/characters/akon.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/akon.png",
+    "voiceActor": "Keiji Okuda",
+    "birthday": "Jun. 29",
+    "height": "176cm",
+    "kitShape": "circle-iris",
+    "kitMotion": "elastic",
+    "kitSignature": "akon-sig-50",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Akon color field (#f9f5dc) expands across screen.",
+      "Reveal: Cover dissolves as SRDI Data Systems sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "ukitake",
+    "name": "Jushiro Ukitake",
+    "kanji": "浮竹 十四郎",
+    "aliases": [
+      "Former Thirteenth Division Captain",
+      "Host of Mimihagi"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Captain (Div 13)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Sogyo no Kotowari",
+      "release": "All Waves, Rise and Become My Shield (Namie Kotogotoku)",
+      "shikai": "Sogyo no Kotowari",
+      "bankai": "Unrevealed",
+      "notes": "Twin blades linked by an amulet cord that absorbs energy blasts and redirects them with amplified speed."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Sogyo no Kotowari",
+        "desc": "Absorbs incoming enemy energy blasts through one sword, regulates their velocity along connecting talismans, and fires them back through the other.",
+        "tags": [
+          "Twin Fish Blade",
+          "Energy Absorption",
+          "Reflected Blast"
+        ]
+      },
+      {
+        "title": "Sacred Vessel",
+        "name": "Kamikake (Mimihagi)",
+        "desc": "Sacrifices his life and physical lungs to unleash Mimihagi, the right hand of the Soul King, to stabilize the cosmos.",
+        "tags": [
+          "Kamikake",
+          "Mimihagi",
+          "Soul King Right Hand"
+        ]
+      }
+    ],
+    "fxType": "water",
+    "colors": {
+      "bg": "#eefae0",
+      "ink": "#180a29",
+      "accent": "#11d438"
+    },
+    "blurb": "The revered and ailing captain of the thirteenth division beloved across the Seireitei for his warmth. Houses the right hand of the Soul King within his chest to safeguard universal stability.",
+    "image": "/assets/characters/ukitake.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/ukitake.png",
+    "voiceActor": "Hideo Ishikawa",
+    "birthday": "Dec. 21",
+    "height": "187cm",
+    "kitShape": "blinds",
+    "kitMotion": "drift",
+    "kitSignature": "ukitake-sig-57",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief drift cue.",
+      "Cover: Signature Jushiro Ukitake color field (#eefae0) expands across screen.",
+      "Reveal: Cover dissolves as Sogyo no Kotowari sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "kaien",
+    "name": "Kaien Shiba",
+    "kanji": "志波 海燕",
+    "aliases": [
+      "Former Thirteenth Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Former Lieutenant (Div 13)",
+    "tier": "B",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Deceased",
+    "power": {
+      "name": "Nejibana",
+      "release": "Surge, Water and Heavens (Suiten Sakamake)",
+      "shikai": "Nejibana",
+      "bankai": "N/A",
+      "notes": "Transforms into a trident that spins crashing vortexes of ocean water."
+    },
+    "powerSteps": [
+      {
+        "title": "Shikai",
+        "name": "Nejibana",
+        "desc": "A twirling trident that manipulates crashing tidal surges and water currents around his strikes.",
+        "tags": [
+          "Twisting Flower",
+          "Trident Vortex",
+          "Tidal Strike"
+        ]
+      }
+    ],
+    "fxType": "water",
+    "colors": {
+      "bg": "#b8f5bc",
+      "ink": "#290a27",
+      "accent": "#11d4b1"
+    },
+    "blurb": "The charismatic elder brother of the Shiba clan whose guidance shaped Rukia's early service. His aquatic trident unleashed swirling torrents before a tragic hollow parasite forced his demise.",
+    "image": "/assets/characters/kaien.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/kaien.png",
+    "kitShape": "chain-links",
+    "kitMotion": "elastic",
+    "kitSignature": "kaien-sig-64",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Kaien Shiba color field (#b8f5bc) expands across screen.",
+      "Reveal: Cover dissolves as Nejibana sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "kiyone",
+    "name": "Kiyone Kotetsu",
+    "kanji": "虎徹 清音",
+    "aliases": [
+      "Fourth Division Lieutenant / Former Thirteenth Division Third Seat"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 4)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Medical Kido",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Isane's younger sister specializing in healing arts."
+    },
+    "fxType": "kido",
+    "colors": {
+      "bg": "#bcf6e3",
+      "ink": "#290a14",
+      "accent": "#1180d4"
+    },
+    "blurb": "The spunky third seat who cheered captain Ukitake and later joined her sister Isane as fourth division lieutenant. She coordinates triage logistics with fierce dedication.",
+    "image": "/assets/characters/kiyone.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/kiyone.png",
+    "kitShape": "bars",
+    "kitMotion": "drift",
+    "kitSignature": "kiyone-sig-71",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief drift cue.",
+      "Cover: Signature Kiyone Kotetsu color field (#bcf6e3) expands across screen.",
+      "Reveal: Cover dissolves as Medical Kido sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "sentaro",
+    "name": "Sentaro Kotsubaki",
+    "kanji": "小椿 仙太郎",
+    "aliases": [
+      "Thirteenth Division Lieutenant"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Lieutenant (Div 13)",
+    "tier": "C",
+    "firstArc": "Soul Society: The Sneak Entry",
+    "status": "Alive",
+    "power": {
+      "name": "Melee Swordplay",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Rukia's co-lieutenant dedicated to defense of the district."
+    },
+    "fxType": "blades",
+    "colors": {
+      "bg": "#c0e6f7",
+      "ink": "#29130a",
+      "accent": "#1b11d4"
+    },
+    "blurb": "A loud and earnest officer who competed with Kiyone for Ukitake's attention before serving under Captain Rukia. He executes division patrols with robust unflagging energy.",
+    "image": "/assets/characters/sentaro.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/sentaro.png",
+    "kitShape": "waves",
+    "kitMotion": "elastic",
+    "kitSignature": "sentaro-sig-78",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Sentaro Kotsubaki color field (#c0e6f7) expands across screen.",
+      "Reveal: Cover dissolves as Melee Swordplay sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "ryunosuke",
+    "name": "Ryunosuke Yuki",
+    "kanji": "行木 竜之介",
+    "aliases": [
+      "Squad 13 Patrol Officer",
+      "Karakura Guard"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Squad 13 Officer",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Active",
+    "power": {
+      "name": "Standard Zanpakuto",
+      "release": "N/A",
+      "shikai": "Unreleased",
+      "bankai": "N/A",
+      "notes": "Trained in orthodox Zanjutsu and basic Karakura patrol tracking."
+    },
+    "powerSteps": [
+      {
+        "title": "Town Defense",
+        "name": "Karakura Patrol",
+        "desc": "Maintains vigilance over supernatural spikes across Karakura Town alongside Shino.",
+        "tags": [
+          "Patrol",
+          "Squad 13"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#c4c8f8",
+      "ink": "#29260a",
+      "accent": "#9311d4"
+    },
+    "blurb": "The nervous young Soul Reaper dispatched to Karakura Town who was rescued by Ichigo from a sudden Hollow swarm at the onset of the Blood War.",
+    "image": "/assets/characters/ryunosuke.png",
+    "headshot": "/assets/headshots/ryunosuke.png",
+    "voiceActor": "Daiki Yamashita",
+    "birthday": "May 9",
+    "height": "156cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "torn-paper",
+    "kitMotion": "drift",
+    "kitSignature": "ryunosuke-sig-85",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief drift cue.",
+      "Cover: Signature Ryunosuke Yuki color field (#c4c8f8) expands across screen.",
+      "Reveal: Cover dissolves as Standard Zanpakuto sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "shino",
+    "name": "Shino Madarame",
+    "kanji": "斑目 志乃",
+    "aliases": [
+      "Squad 13 Patrol Officer",
+      "Ikkaku Blood Relative"
+    ],
+    "faction": "Gotei 13",
+    "divisionRank": "Squad 13 Officer",
+    "tier": "C",
+    "firstArc": "The Thousand-Year Blood War",
+    "status": "Active",
+    "power": {
+      "name": "Standard Zanpakuto",
+      "release": "N/A",
+      "shikai": "Unreleased",
+      "bankai": "N/A",
+      "notes": "Combative martial technique inherited from the Madarame warrior bloodline."
+    },
+    "powerSteps": [
+      {
+        "title": "Fierce Defense",
+        "name": "Combat Reflexes",
+        "desc": "Commands high combat spirit reminiscent of her cousin Ikkaku Madarame.",
+        "tags": [
+          "Martial",
+          "Madarame"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#e2c8f9",
+      "ink": "#18290a",
+      "accent": "#d4119d"
+    },
+    "blurb": "A resolute Squad 13 Shinigami and relative of Ikkaku Madarame stationed in Karakura Town who stood her ground through the initial Hollow ambush.",
+    "image": "/assets/characters/shino.png",
+    "headshot": "/assets/headshots/shino.png",
+    "voiceActor": "Asami Seto",
+    "birthday": "Apr. 16",
+    "height": "159cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "shards",
+    "kitMotion": "elastic",
+    "kitSignature": "shino-sig-92",
+    "storyboard": [
+      "Anticipation: shards silhouette emerges with a brief elastic cue.",
+      "Cover: Signature Shino Madarame color field (#e2c8f9) expands across screen.",
+      "Reveal: Cover dissolves as Standard Zanpakuto sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  }
+]

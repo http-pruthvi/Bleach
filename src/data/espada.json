@@ -1,0 +1,990 @@
+[
+  {
+    "id": "starrk",
+    "name": "Coyote Starrk",
+    "kanji": "コヨーテ・スターク",
+    "aliases": [
+      "Primera Espada",
+      "Espada #1"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Primera Espada (1)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Los Lobos",
+      "release": "Kick About, Chase (Kechirase)",
+      "shikai": "Los Lobos",
+      "bankai": "N/A",
+      "notes": "Soul split into himself and Lilynette; unifies into twin guns firing Cero Metralleta and exploding spirit wolves."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Los Lobos",
+        "desc": "Fuses with Lilynette to manifest twin dual flintlocks that fire up to a thousand blue Cero blasts simultaneously.",
+        "tags": [
+          "Cero Metralleta",
+          "Twin Guns",
+          "Pack Hunting"
+        ]
+      },
+      {
+        "title": "Ultimate Art",
+        "name": "Soul Pack Wolves",
+        "desc": "Separates pieces of his own soul into a pack of spirit wolves that chase targets down and detonate on impact.",
+        "tags": [
+          "Exploding Wolves",
+          "Soul Splinter",
+          "Inescapable Claws"
+        ]
+      }
+    ],
+    "fxType": "hollow",
+    "colors": {
+      "bg": "#bebaf3",
+      "ink": "#26290a",
+      "accent": "#b411d4"
+    },
+    "blurb": "The Primera Espada whose spiritual loneliness drove him to divide his soul into two separate entities. Despite preferring an afternoon nap over war, his rapid-fire Cero guns overwhelm captain-class duels.",
+    "image": "/assets/characters/starrk.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/starrk.png",
+    "kitShape": "slash",
+    "kitMotion": "glide",
+    "kitSignature": "starrk-sig-55",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief glide cue.",
+      "Cover: Signature Coyote Starrk color field (#bebaf3) expands across screen.",
+      "Reveal: Cover dissolves as Los Lobos sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "barragan",
+    "name": "Baraggan Louisenbairn",
+    "kanji": "バラガン・ルイゼンバーン",
+    "aliases": [
+      "Segunda Espada",
+      "Espada #2",
+      "God of Hueco Mundo"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Segunda Espada (2)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Arrogante",
+      "release": "Rot (Kuchiro)",
+      "shikai": "Arrogante",
+      "bankai": "N/A",
+      "notes": "Commands senescence and absolute decay (Respira), rotting all physical, spiritual, and Kido matter into dust upon touch."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Arrogante & Respira",
+        "desc": "Transforms into a crowned skeletal monarch cloaked in decaying smoke that ages bones, buildings, and spells to ash instantly.",
+        "tags": [
+          "Breath of Death",
+          "Absolute Senescence",
+          "Rotting Crown"
+        ]
+      },
+      {
+        "title": "Weapon",
+        "name": "Gran Caida",
+        "desc": "Swings a gargantuan black battle axe that radiates intense aging miasma with every sweeping chop.",
+        "tags": [
+          "Axe of the Fallen",
+          "Decaying Cleave",
+          "Guillotine"
+        ]
+      }
+    ],
+    "fxType": "shadow",
+    "colors": {
+      "bg": "#e4bef4",
+      "ink": "#13290a",
+      "accent": "#d4117d"
+    },
+    "blurb": "The ancient monarch who ruled over Hueco Mundo from an open-air bone throne before Aizen usurped his reign. His miasma of time rots weapons, flesh, and energy barriers into dust upon mere proximity.",
+    "image": "/assets/characters/barragan.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/barragan.png",
+    "kitShape": "circle-iris",
+    "kitMotion": "slam",
+    "kitSignature": "barragan-sig-62",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief slam cue.",
+      "Cover: Signature Baraggan Louisenbairn color field (#e4bef4) expands across screen.",
+      "Reveal: Cover dissolves as Arrogante sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "harribel",
+    "name": "Tier Harribel",
+    "kanji": "ティア・ハリベル",
+    "aliases": [
+      "Tres Espada",
+      "Espada #3",
+      "Current Ruler of Hueco Mundo"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Tres Espada (3)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Tiburón",
+      "release": "Destroy (Ute)",
+      "shikai": "Tiburón",
+      "bankai": "N/A",
+      "notes": "Commands boiling aquatic torrents and massive tidal waves through a shark-fin broadsword."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Tiburón & Cascata",
+        "desc": "Adopts shark-carapace armor and commands massive boiling tidal waves capable of submerging cityscapes in flash floods.",
+        "tags": [
+          "Shark Fin",
+          "Cascata Torrent",
+          "Boiling Tide"
+        ]
+      },
+      {
+        "title": "Thermal Art",
+        "name": "Hirviendo",
+        "desc": "Instantly boils frozen ice into scalding vapor or projects concentrated burning hydro jets through her broadsword.",
+        "tags": [
+          "Boiling Current",
+          "Ice Melter",
+          "Hydro Jet"
+        ]
+      }
+    ],
+    "fxType": "water",
+    "colors": {
+      "bg": "#f5c2e5",
+      "ink": "#0a2914",
+      "accent": "#d41e11"
+    },
+    "blurb": "The composed third Espada whose personal philosophy centers on sacrifice and protecting her loyal Fracciones. Following Aizen's defeat, she became the undisputed guardian and sovereign of Hueco Mundo.",
+    "image": "/assets/characters/harribel.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/harribel.png",
+    "kitShape": "blinds",
+    "kitMotion": "glide",
+    "kitSignature": "harribel-sig-69",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief glide cue.",
+      "Cover: Signature Tier Harribel color field (#f5c2e5) expands across screen.",
+      "Reveal: Cover dissolves as Tiburón sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "ulquiorra",
+    "name": "Ulquiorra Cifer",
+    "kanji": "ウルキオラ・シファー",
+    "aliases": [
+      "Cuatro Espada",
+      "Espada #4",
+      "The Black Bat"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Cuatro Espada (4)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Murciélago",
+      "release": "Enclose (Tozase)",
+      "shikai": "Murciélago",
+      "bankai": "N/A",
+      "notes": "The only Espada to achieve Segunda Etapa; generates lightning lances that obliterate horizons."
+    },
+    "powerSteps": [
+      {
+        "title": "First Release",
+        "name": "Murciélago",
+        "desc": "Grows giant black bat wings and fires Cero Oscuras, a devastating black Cero capable of blowing away half of Las Noches.",
+        "tags": [
+          "Bat Wings",
+          "Cero Oscuras",
+          "High-Speed Regeneration"
+        ]
+      },
+      {
+        "title": "Second Release",
+        "name": "Segunda Etapa",
+        "desc": "A terrifying demonic form unknown even to Aizen, where raw spiritual pressure rains like liquid despair from the firmament.",
+        "tags": [
+          "Second Stage",
+          "Liquid Despair",
+          "Demon Bat"
+        ]
+      },
+      {
+        "title": "Ultimate Weapon",
+        "name": "Lanza del Relámpago",
+        "desc": "Materializes a crackling javelin of green spiritual lightning whose detonation creates atomic mushroom clouds on the horizon.",
+        "tags": [
+          "Lightning Javelin",
+          "Nuclear Detonation",
+          "Catastrophic Yield"
+        ]
+      }
+    ],
+    "fxType": "hollow",
+    "colors": {
+      "bg": "#f6c6c9",
+      "ink": "#0a2927",
+      "accent": "#d49711"
+    },
+    "blurb": "The nihilistic fourth Espada who questioned the intangible concept of the human heart while battling Ichigo Kurosaki. His secret Segunda Etapa unleashes lightning spears with apocalyptic destructive force.",
+    "image": "/assets/characters/ulquiorra.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/ulquiorra.png",
+    "kitShape": "chain-links",
+    "kitMotion": "slam",
+    "kitSignature": "ulquiorra-sig-76",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief slam cue.",
+      "Cover: Signature Ulquiorra Cifer color field (#f6c6c9) expands across screen.",
+      "Reveal: Cover dissolves as Murciélago sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "nnoitra",
+    "name": "Nnoitra Gilga",
+    "kanji": "ノイトラ・ジルガ",
+    "aliases": [
+      "Quinto Espada",
+      "Espada #5",
+      "The Praying Mantis"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Quinto Espada (5)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Santa Teresa",
+      "release": "Pray (Inore)",
+      "shikai": "Santa Teresa",
+      "bankai": "N/A",
+      "notes": "Possesses the hardest Hierro among all Espada; manifests six arms wielding scythe blades."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Santa Teresa",
+        "desc": "Sprouts multiple insectoid arms brandishing curved scythe blades with endless regeneration of severed limbs.",
+        "tags": [
+          "Six Arms",
+          "Mantis Scythes",
+          "Impenetrable Hierro"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#f7e3ca",
+      "ink": "#0a1829",
+      "accent": "#9ad411"
+    },
+    "blurb": "A towering sadist obsessed with battle who boasted the thickest Hierro skin in the Arrancar army. He yearned to perish in combat before hitting the floor, meeting his match against Kenpachi Zaraki.",
+    "image": "/assets/characters/nnoitra.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/nnoitra.png",
+    "kitShape": "bars",
+    "kitMotion": "glide",
+    "kitSignature": "nnoitra-sig-83",
+    "storyboard": [
+      "Anticipation: bars silhouette emerges with a brief glide cue.",
+      "Cover: Signature Nnoitra Gilga color field (#f7e3ca) expands across screen.",
+      "Reveal: Cover dissolves as Santa Teresa sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "grimmjow",
+    "name": "Grimmjow Jaegerjaquez",
+    "kanji": "グリムジョー・ジャガージャック",
+    "aliases": [
+      "Sexta Espada",
+      "Espada #6",
+      "The Blue Panther"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Sexta Espada (6)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Pantera",
+      "release": "Grind (Kishire)",
+      "shikai": "Pantera",
+      "bankai": "N/A",
+      "notes": "Feline combat form granting supreme agility, sonic roars, and colossal crystalline claws (Desgarrón)."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Pantera",
+        "desc": "Morphs into an armored panther humanoid with razor fangs, supersonic agility, and five dart bombs fired from his elbows.",
+        "tags": [
+          "Grind Pantera",
+          "Feline Agility",
+          "Garra de la Pantera"
+        ]
+      },
+      {
+        "title": "Finisher",
+        "name": "Desgarrón",
+        "desc": "Projects ten massive crystalline blue claws extending from his fingertips that slash through sky and masonry.",
+        "tags": [
+          "Laceration Claws",
+          "Crystalline Claws",
+          "Apex Predator"
+        ]
+      }
+    ],
+    "fxType": "blades",
+    "colors": {
+      "bg": "#f1f8ce",
+      "ink": "#0f0a29",
+      "accent": "#21d411"
+    },
+    "blurb": "The hot-blooded sixth Espada whose animalistic pride makes him reject all subordination. His rival clash with Ichigo pushed both warriors to their physical limits across the white sands of Hueco Mundo.",
+    "image": "/assets/characters/grimmjow.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/grimmjow.png",
+    "kitShape": "waves",
+    "kitMotion": "slam",
+    "kitSignature": "grimmjow-sig-90",
+    "storyboard": [
+      "Anticipation: waves silhouette emerges with a brief slam cue.",
+      "Cover: Signature Grimmjow Jaegerjaquez color field (#f1f8ce) expands across screen.",
+      "Reveal: Cover dissolves as Pantera sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "zommari",
+    "name": "Zommari Rureaux",
+    "kanji": "ゾマリ・ルルー",
+    "aliases": [
+      "Séptima Espada",
+      "Espada #7"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Séptima Espada (7)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Brujería",
+      "release": "Quell (Shizumare)",
+      "shikai": "Brujería",
+      "bankai": "N/A",
+      "notes": "Commands the fastest Sonído (Gemelos Sonído) and seizes control of limbs using eye tattoos (Amor)."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Brujería & Amor",
+        "desc": "Morphs into a multi-eyed lotus idol that stamps eye tattoos on enemy limbs to take absolute control of their movements.",
+        "tags": [
+          "Sovereign Love",
+          "Eye Tattoo Control",
+          "Lotus Body"
+        ]
+      }
+    ],
+    "fxType": "gravity",
+    "colors": {
+      "bg": "#dbf9d2",
+      "ink": "#220a29",
+      "accent": "#11d479"
+    },
+    "blurb": "The contemplative seventh Espada famed for creating five tangible speed afterimages through Gemelos Sonído. His eye tattoos seize muscular control of opponent limbs until countered by Byakuya Kuchiki.",
+    "image": "/assets/characters/zommari.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/zommari.png",
+    "kitShape": "torn-paper",
+    "kitMotion": "glide",
+    "kitSignature": "zommari-sig-97",
+    "storyboard": [
+      "Anticipation: torn-paper silhouette emerges with a brief glide cue.",
+      "Cover: Signature Zommari Rureaux color field (#dbf9d2) expands across screen.",
+      "Reveal: Cover dissolves as Brujería sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "szayelaporro",
+    "name": "Szayelaporro Granz",
+    "kanji": "ザエルアポロ・グランツ",
+    "aliases": [
+      "Octava Espada",
+      "Espada #8"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Octava Espada (8)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Imprisoned in Hell",
+    "power": {
+      "name": "Fornicarás",
+      "release": "Sip (Susure)",
+      "shikai": "Fornicarás",
+      "bankai": "N/A",
+      "notes": "Creates carbon-copy clones, constructs voodoo effigies that crush internal organs, and resurrects through impregnation."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Fornicarás & Teatro de Títeres",
+        "desc": "Sprouts droplet tentacles that swallow opponents into miniature voodoo dolls containing color-coded organ tokens.",
+        "tags": [
+          "Voodoo Puppets",
+          "Organ Crushing",
+          "Gabriel Rebirth"
+        ]
+      }
+    ],
+    "fxType": "illusion",
+    "colors": {
+      "bg": "#d6fae5",
+      "ink": "#290a1d",
+      "accent": "#11b7d4"
+    },
+    "blurb": "The narcissistic research intellect of the Espada who dissects foes with analytical arrogance. His voodoo puppets inflict internal organ failure before he encountered Mayuri's superhuman drug.",
+    "image": "/assets/characters/szayelaporro.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/szayelaporro.png",
+    "kitShape": "shards",
+    "kitMotion": "slam",
+    "kitSignature": "szayelaporro-sig-4",
+    "storyboard": [
+      "Anticipation: shards silhouette emerges with a brief slam cue.",
+      "Cover: Signature Szayelaporro Granz color field (#d6fae5) expands across screen.",
+      "Reveal: Cover dissolves as Fornicarás sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  },
+  {
+    "id": "aaroniero",
+    "name": "Aaroniero Arruruerie",
+    "kanji": "アーロニーロ・アルルエリ",
+    "aliases": [
+      "Novena Espada",
+      "Espada #9"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Novena Espada (9)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Glotonería",
+      "release": "Devour (Kuitsukuse)",
+      "shikai": "Glotonería",
+      "bankai": "N/A",
+      "notes": "The only Gillian in the Espada; has consumed 33,650 hollows to absorb their forms, powers, and memories."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Glotonería",
+        "desc": "A gelatinous mass of consumed hollow tentacles that manifests the exact abilities, face, and Zanpakuto of Kaien Shiba.",
+        "tags": [
+          "33,650 Hollows",
+          "Kaien Disguise",
+          "Gluttonous Mass"
+        ]
+      }
+    ],
+    "fxType": "water",
+    "colors": {
+      "bg": "#dbfafb",
+      "ink": "#290b0a",
+      "accent": "#113fd4"
+    },
+    "blurb": "The lone survivor of the original Espada generation whose twin floating heads inhabit a liquid flask. He devoured tens of thousands of hollows to manifest Kaien Shiba's face and memories before Rukia.",
+    "image": "/assets/characters/aaroniero.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/aaroniero.png",
+    "kitShape": "diamonds",
+    "kitMotion": "glide",
+    "kitSignature": "aaroniero-sig-11",
+    "storyboard": [
+      "Anticipation: diamonds silhouette emerges with a brief glide cue.",
+      "Cover: Signature Aaroniero Arruruerie color field (#dbfafb) expands across screen.",
+      "Reveal: Cover dissolves as Glotonería sweeps into focus."
+    ],
+    "displayFont": "Dela Gothic One"
+  },
+  {
+    "id": "yammy",
+    "name": "Yammy Llargo",
+    "kanji": "ヤミー・リヤルゴ",
+    "aliases": [
+      "Cero Espada",
+      "Espada #10 / #0"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Cero Espada (0)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Ira",
+      "release": "Enrage (Buchigire)",
+      "shikai": "Ira",
+      "bankai": "N/A",
+      "notes": "His tattoo shifts from 10 to 0 as fury fuels colossal size expansion into a multi-legged titan caterpillar."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Ira (Cero Espada)",
+        "desc": "Grows into a colossal multi-legged behemoth whose physical mass and spiritual output multiply alongside blind rage.",
+        "tags": [
+          "Cero Espada",
+          "Titan Growth",
+          "Furious Rage"
+        ]
+      }
+    ],
+    "fxType": "earth",
+    "colors": {
+      "bg": "#dfe9fb",
+      "ink": "#291e0a",
+      "accent": "#5c11d4"
+    },
+    "blurb": "A brutish brawler who stores immense energy by sleeping and bingeing across Hueco Mundo. When his rage crests, his numeral shifts from 10 to 0 as he balloons into a mountainous titan.",
+    "image": "/assets/characters/yammy.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/yammy.png",
+    "kitShape": "ripples",
+    "kitMotion": "slam",
+    "kitSignature": "yammy-sig-18",
+    "storyboard": [
+      "Anticipation: ripples silhouette emerges with a brief slam cue.",
+      "Cover: Signature Yammy Llargo color field (#dfe9fb) expands across screen.",
+      "Reveal: Cover dissolves as Ira sweeps into focus."
+    ],
+    "displayFont": "Bebas Neue"
+  },
+  {
+    "id": "nelliel",
+    "name": "Nelliel Tu Odelschwanck",
+    "kanji": "ネリエル・トゥ・オーデルシュヴァンク",
+    "aliases": [
+      "Nel Tu",
+      "Former Tres Espada"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Former Tres Espada (3)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive",
+    "power": {
+      "name": "Gamuza",
+      "release": "Declare (Utae)",
+      "shikai": "Gamuza",
+      "bankai": "N/A",
+      "notes": "Centaur knight form wielding a massive lance; swallows and fires back amplified enemy Cero (Cero Doble)."
+    },
+    "powerSteps": [
+      {
+        "title": "Signature Technique",
+        "name": "Cero Doble",
+        "desc": "Swallows an incoming enemy Cero into her mouth and discharges it back with double the volume and concussive force.",
+        "tags": [
+          "Cero Swallowing",
+          "Double Cero",
+          "Counter Blast"
+        ]
+      },
+      {
+        "title": "Resurrección",
+        "name": "Gamuza",
+        "desc": "Transforms into a graceful armored ibex centaur who hurls the giant drill lance Lanzador Verde with pinpoint accuracy.",
+        "tags": [
+          "Centaur Knight",
+          "Lanzador Verde",
+          "Drill Lance"
+        ]
+      }
+    ],
+    "fxType": "speed",
+    "colors": {
+      "bg": "#c6b6f7",
+      "ink": "#21290a",
+      "accent": "#d411d4"
+    },
+    "blurb": "A noble former Espada who was cast out by Nnoitra's treachery and regressed into the toddler Nel Tu. When returning to adult form, her centaur knight lance protects Ichigo with chivalrous honor.",
+    "image": "/assets/characters/nelliel.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/nelliel.png",
+    "voiceActor": "Tomoko Kaneda",
+    "birthday": "Apr. 24",
+    "kitShape": "hex-grid",
+    "kitMotion": "glide",
+    "kitSignature": "nelliel-sig-25",
+    "storyboard": [
+      "Anticipation: hex-grid silhouette emerges with a brief glide cue.",
+      "Cover: Signature Nelliel Tu Odelschwanck color field (#c6b6f7) expands across screen.",
+      "Reveal: Cover dissolves as Gamuza sweeps into focus."
+    ],
+    "displayFont": "Rajdhani"
+  },
+  {
+    "id": "wonderweiss",
+    "name": "Wonderweiss Margela",
+    "kanji": "ワンダーワイス・マルジェラ",
+    "aliases": [
+      "The Fire Extinguisher"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Modified Arrancar",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Extinguir",
+      "release": "N/A",
+      "shikai": "Extinguir",
+      "bankai": "N/A",
+      "notes": "Custom-engineered by Aizen to seal away Yamamoto's Ryujin Jakka flames completely."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurrección",
+        "name": "Extinguir",
+        "desc": "Sprouts dozens of elongated white arms capable of rapid multi-punch combos and storing sealed flame blasts in his torso.",
+        "tags": [
+          "Flame Seal",
+          "Vagido Scream",
+          "Hundred Fists"
+        ]
+      }
+    ],
+    "fxType": "fire",
+    "colors": {
+      "bg": "#efbaf8",
+      "ink": "#0e290a",
+      "accent": "#d4115c"
+    },
+    "blurb": "A mentally stripped Arrancar engineered by Aizen for the sole purpose of extinguishing Yamamoto's flames. His multi-armed form sealed Ryujin Jakka before falling to the Captain-Commander's bare fists.",
+    "image": "/assets/characters/wonderweiss.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/wonderweiss.png",
+    "kitShape": "star-iris",
+    "kitMotion": "slam",
+    "kitSignature": "wonderweiss-sig-32",
+    "storyboard": [
+      "Anticipation: star-iris silhouette emerges with a brief slam cue.",
+      "Cover: Signature Wonderweiss Margela color field (#efbaf8) expands across screen.",
+      "Reveal: Cover dissolves as Extinguir sweeps into focus."
+    ],
+    "displayFont": "Playfair Display"
+  },
+  {
+    "id": "dordoni",
+    "name": "Dordoni Alessandro Del Socaccio",
+    "kanji": "ドルドーニ・アレッサンドロ・デル・ソカッチオ",
+    "aliases": [
+      "Privaron Espada 103"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Privaron Espada",
+    "tier": "C",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Giralda",
+      "release": "Whirl (Maware)",
+      "shikai": "Giralda",
+      "bankai": "N/A",
+      "notes": "Whirlwind legs that summon twin cyclonic wind serpents."
+    },
+    "fxType": "speed",
+    "colors": {
+      "bg": "#f9bedc",
+      "ink": "#0a2919",
+      "accent": "#d43f11"
+    },
+    "blurb": "A flamboyant fallen Espada who pushed Ichigo to use his Bankai so he could prove his pride to Aizen. He held off the pursuing Exequias to allow his young opponent to advance safely.",
+    "image": "/assets/characters/dordoni.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/dordoni.png",
+    "voiceActor": "Koji Ishii",
+    "birthday": "Aug. 28",
+    "height": "190cm",
+    "kitShape": "brush-stroke",
+    "kitMotion": "glide",
+    "kitSignature": "dordoni-sig-39",
+    "storyboard": [
+      "Anticipation: brush-stroke silhouette emerges with a brief glide cue.",
+      "Cover: Signature Dordoni Alessandro Del Socaccio color field (#f9bedc) expands across screen.",
+      "Reveal: Cover dissolves as Giralda sweeps into focus."
+    ],
+    "displayFont": "Inter"
+  },
+  {
+    "id": "cirucci",
+    "name": "Cirucci Sanderwicci",
+    "kanji": "チルッチ・サンダーウィッチ",
+    "aliases": [
+      "Privaron Espada 105"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Privaron Espada",
+    "tier": "C",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive (Corpses Revived)",
+    "power": {
+      "name": "Golondrina",
+      "release": "Rip (Kakkire)",
+      "shikai": "Golondrina",
+      "bankai": "N/A",
+      "notes": "Wields a yo-yo whip blade and detachable blade-wings."
+    },
+    "fxType": "blades",
+    "colors": {
+      "bg": "#f9c8c2",
+      "ink": "#0a2629",
+      "accent": "#d4b711"
+    },
+    "blurb": "A gothic-styled former Espada whose spinning razor yo-yo tested Uryu's marksmanship in Las Noches. Later revived by Mayuri, she fought on the frontline in the Quincy conflict.",
+    "image": "/assets/characters/cirucci.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/cirucci.png",
+    "voiceActor": "Houko Kuwashima",
+    "birthday": "Feb. 27",
+    "height": "158cm",
+    "kitShape": "slash",
+    "kitMotion": "slam",
+    "kitSignature": "cirucci-sig-46",
+    "storyboard": [
+      "Anticipation: slash silhouette emerges with a brief slam cue.",
+      "Cover: Signature Cirucci Sanderwicci color field (#f9c8c2) expands across screen.",
+      "Reveal: Cover dissolves as Golondrina sweeps into focus."
+    ],
+    "displayFont": "Cinzel"
+  },
+  {
+    "id": "lilynette",
+    "name": "Lilynette Gingerbuck",
+    "kanji": "リリネット・ジンジャーバック",
+    "aliases": [
+      "Starrk's Fracción"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Fracción",
+    "tier": "C",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Deceased",
+    "power": {
+      "name": "Twin Gun Transformation",
+      "release": "N/A",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Fuses into Starrk's twin flintlock pistols upon Resurrección."
+    },
+    "fxType": "hollow",
+    "colors": {
+      "bg": "#faecc7",
+      "ink": "#0a1329",
+      "accent": "#79d411"
+    },
+    "blurb": "The fiery half of Coyote Starrk's soul who frequently bickers with her lazy partner to push him into battle. Upon release, she becomes the twin pistols through which his Cero barrage fires.",
+    "image": "/assets/characters/lilynette.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/lilynette.png",
+    "kitShape": "circle-iris",
+    "kitMotion": "glide",
+    "kitSignature": "lilynette-sig-53",
+    "storyboard": [
+      "Anticipation: circle-iris silhouette emerges with a brief glide cue.",
+      "Cover: Signature Lilynette Gingerbuck color field (#faecc7) expands across screen.",
+      "Reveal: Cover dissolves as Twin Gun Transformation sweeps into focus."
+    ],
+    "displayFont": "Montserrat"
+  },
+  {
+    "id": "charlotte",
+    "name": "Charlotte Chuhlhourne",
+    "kanji": "シャルロッテ・クールホーン",
+    "aliases": [
+      "Barragan's Fracción"
+    ],
+    "faction": "Arrancar & Espada",
+    "divisionRank": "Fracción",
+    "tier": "C",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Alive (Revived)",
+    "power": {
+      "name": "Reina de Rosas",
+      "release": "Bloom Prettily (Kirameke)",
+      "shikai": "Reina de Rosas",
+      "bankai": "N/A",
+      "notes": "Traps enemies in a dark thorny bush of roses that obscures outside view."
+    },
+    "fxType": "petals",
+    "colors": {
+      "bg": "#ebfbcb",
+      "ink": "#140a29",
+      "accent": "#11d421"
+    },
+    "blurb": "Barragan's flamboyant drag Fracción whose dramatic speeches hide formidable combat endurance. His thorn bush of roses inadvertently allowed Yumichika to release his true Kido blade.",
+    "image": "/assets/characters/charlotte.png",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "headshot": "/assets/headshots/charlotte.png",
+    "voiceActor": "Kenta Miyake",
+    "birthday": "Aug. 8",
+    "height": "192cm",
+    "kitShape": "blinds",
+    "kitMotion": "slam",
+    "kitSignature": "charlotte-sig-60",
+    "storyboard": [
+      "Anticipation: blinds silhouette emerges with a brief slam cue.",
+      "Cover: Signature Charlotte Chuhlhourne color field (#ebfbcb) expands across screen.",
+      "Reveal: Cover dissolves as Reina de Rosas sweeps into focus."
+    ],
+    "displayFont": "Syne"
+  },
+  {
+    "id": "luppi",
+    "name": "Luppi Antenor",
+    "kanji": "ルピ・アンテノール",
+    "aliases": [
+      "Sexta Espada (Former)",
+      "Mayuri Corpse Unit"
+    ],
+    "faction": "Hueco Mundo / Espada",
+    "divisionRank": "6th Espada (Temporary)",
+    "tier": "B",
+    "firstArc": "Arrancar: The Arrival",
+    "status": "Resurrected",
+    "power": {
+      "name": "Trepadora (Strangle)",
+      "release": "Strangle (Kubikukure)",
+      "shikai": "N/A",
+      "bankai": "N/A",
+      "notes": "Sprouts eight giant, flexible Reishi tentacles capable of crushing battalions and firing multi-angled Cero."
+    },
+    "powerSteps": [
+      {
+        "title": "Resurreccion",
+        "name": "Trepadora",
+        "desc": "Unleashes eight devastating tentacles that constrict and smash targets with overwhelming force.",
+        "tags": [
+          "Tentacles",
+          "Crush",
+          "Resurreccion"
+        ]
+      }
+    ],
+    "fxType": "hollow",
+    "colors": {
+      "bg": "#d2fbd0",
+      "ink": "#270a29",
+      "accent": "#11d49a"
+    },
+    "blurb": "The flamboyant Arrancar who briefly held the 6th Espada title before Grimmjow obliterated him; later resurrected by Mayuri Kurotsuchi to fight the Wandenreich.",
+    "image": "/assets/characters/luppi.png",
+    "headshot": "/assets/headshots/luppi.png",
+    "voiceActor": "Daisuke Kishio",
+    "birthday": "Jun. 5",
+    "height": "161cm",
+    "video": {
+      "type": null,
+      "src": "",
+      "title": ""
+    },
+    "kitShape": "chain-links",
+    "kitMotion": "glide",
+    "kitSignature": "luppi-sig-67",
+    "storyboard": [
+      "Anticipation: chain-links silhouette emerges with a brief glide cue.",
+      "Cover: Signature Luppi Antenor color field (#d2fbd0) expands across screen.",
+      "Reveal: Cover dissolves as Trepadora (Strangle) sweeps into focus."
+    ],
+    "displayFont": "Space Grotesk"
+  }
+]
